@@ -13,7 +13,6 @@ read.csv.ssl <- function(url, ...){
 }
 
 
-
 wine <- read.csv.ssl(URL)
 
 ######----------------------------------------
@@ -49,6 +48,12 @@ wine <- wine_original # copies the data, no more waiting for downloading
 table(wine[, 4], useNA = 'ifany')
 
 # Quick visualisations
+plot(table(wine[, 2]))
+
+# NOT great default
+# Doesn't even work
+plot(wine$Vintage, wine$Grade)
+
 # Get package
 if(!"ggplot2" %in% installed.packages()) install.packages("ggplot2")
 library(ggplot2)
@@ -60,4 +65,7 @@ qplot(Vintage, data = wine)
 # Why the spike at 1990? 
 # Why are some vintage years left blank? 
 
+# Other stuff
+qplot(Vintage, Grade, data = wine)
+qplot(Vintage, Grade, data = wine, geom = 'jitter')
 
