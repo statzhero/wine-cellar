@@ -6,11 +6,13 @@ wine <- read.csv(URL)
 # Introducing a function
 
 read.csv.ssl <- function(url, ...){
-  tmpFile <- tempfile()
-  download.file(url, destfile = tmpFile, method = "curl")
-  url.data <- read.csv(tmpFile, ...)
-  return(url.data)
+  tmpfile <- tempfile()
+  download.file(url, destfile = tmpfile, method = "curl")
+  urldata <- read.csv(tmpFile, ...)
+  return(urldata)
 }
+
+
 
 wine <- read.csv.ssl(URL)
 
@@ -45,5 +47,17 @@ wine <- wine_original # copies the data, no more waiting for downloading
 # Table with missings
 # as default: http://stackoverflow.com/questions/21724212/set-r-to-include-missing-data-how-can-is-set-the-usena-ifany-option-for-t
 table(wine[, 4], useNA = 'ifany')
+
+# Quick visualisations
+# Get package
+if(!"ggplot2" %in% installed.packages()) install.packages("ggplot2")
+library(ggplot2)
+
+qplot(Vintage, data = wine)
+
+# This raises more questions: 
+# What does 'NV' stand for? 
+# Why the spike at 1990? 
+# Why are some vintage years left blank? 
 
 
