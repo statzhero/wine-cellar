@@ -1,6 +1,6 @@
 URL <- 'https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/339362/GH_Wine_Cellar_and_consumption_dataset_July_2014.csv'
 
-# NOT WORKING
+# NOT WORKING - but why
 wine <- read.csv(URL)
 
 # Introducing a function
@@ -13,3 +13,22 @@ read.csv.ssl <- function(url, ...){
 }
 
 wine <- read.csv.ssl(URL)
+
+######----------------------------------------
+# Now the questions: is it 'machine-readile'? 
+
+# Encoding errors in Product.Name
+wine[1, ]
+
+# What type are the columns? 
+sapply(wine, class)
+
+# Hmmmm
+
+options(stringsAsFactors = FALSE)
+wine <- read.csv(URL)
+
+sapply(wine, class)
+
+
+
