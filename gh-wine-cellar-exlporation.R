@@ -40,6 +40,10 @@ wine$Consumption.April.2013...March.2014 <- as.numeric(wine$Consumption.April.20
 wine_original <- read.csv.ssl(URL)
 wine <- wine_original # copies the data, no more waiting for downloading
 
+# So what's up with Consumption?
+wine$Consumption.April.2013...March.2014[nchar(wine$Consumption.April.2013...March.2014) > 3]
+
+# Aha! Aha... :(
 
 
 
@@ -51,7 +55,7 @@ table(wine[, 4], useNA = 'ifany')
 plot(table(wine[, 2]))
 
 # NOT great default
-# Doesn't even work
+# This doesn't even work
 plot(wine$Vintage, wine$Grade)
 
 # Get package
@@ -68,4 +72,6 @@ qplot(Vintage, data = wine)
 # Other stuff
 qplot(Vintage, Grade, data = wine)
 qplot(Vintage, Grade, data = wine, geom = 'jitter')
+
+qplot(Grade, Country.Region, data = wine, geom = 'jitter')
 
