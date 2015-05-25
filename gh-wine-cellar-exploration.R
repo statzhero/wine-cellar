@@ -1,7 +1,8 @@
-URL <- 'https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/339362/GH_Wine_Cellar_and_consumption_dataset_July_2014.csv'
+library(RCurl)
 
-# NOT WORKING - but why
-wine <- read.csv(URL)
+#You needed CURL to download from HTTPS source
+download.file("https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/339362/GH_Wine_Cellar_and_consumption_dataset_July_2014.csv",destfile="data.csv",method="curl")
+wine <- read.csv("data.csv")
 
 # Introducing a function - or maybe not
 
