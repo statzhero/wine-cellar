@@ -8,7 +8,7 @@ wine <- read.csv(URL)
 read.csv.ssl <- function(url, ...){
   tmpfile <- tempfile()
   download.file(url, destfile = tmpfile, method = "curl")
-  urldata <- read.csv(tmpFile, ...)
+  urldata <- read.csv(tmpfile, ...)
   return(urldata)
 }
 
