@@ -110,8 +110,28 @@ qplot(Vintage, Grade, data = wine, geom = 'jitter')
 
 qplot(Grade, Country.Region, data = wine, geom = 'jitter')
 
+#--------COSMETICS------------
+
+# FAST way 
+names(wine)
+colnames(wine) <- c("Country.Region", "Vintage", "Product.Name", "Grade", "Consumption")
+
+# SAFE way
+if(!"plyr" %in% installed.packages()) install.packages("plyr")
+library(plyr)
+wine <- rename(wine, c("Country.Region" = "country-region",
+                       "Vintage" = "vintage",
+                       "Product.Name" = "product-name",
+                       "Grade" = "grade",
+                       "Consumption" = "consumption"))
+
+# SCALABLE way
+if(!"data.table" %in% installed.packages()) install.packages("data.table")
+library(data.table)
+?setnames
+
 # Export as a simple file
-# write.csv(wine, "UK-wine-cellar-2014.csv")
+write.csv(wine, "UK-wine-cellar-2014-CLEAN.csv", row.names = FALSE, na = "")
 
 
 
