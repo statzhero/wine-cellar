@@ -1,4 +1,5 @@
 URL <- 'https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/339362/GH_Wine_Cellar_and_consumption_dataset_July_2014.csv'
+URLbackup <- 'https://raw.githubusercontent.com/statshero/wine-cellar/master/GH_Wine_Cellar_and_consumption_dataset_July_2014.csv'
 
 # NOT WORKING - but why
 wine <- read.csv(URL)
