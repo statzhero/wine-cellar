@@ -88,10 +88,9 @@ wine$Consumption.April.2013...March.2014[nchar(wine$Consumption.April.2013...Mar
 table(wine[, 4], useNA = 'ifany')
 
 # Quick visualisations
-plot(table(wine[, 2]))
+plot(table(wine[, 2])) # NOT great default
 
-# NOT great default
-# This doesn't even work
+# This below doesn't even work
 plot(wine$Vintage, wine$Grade)
 
 # Get package
