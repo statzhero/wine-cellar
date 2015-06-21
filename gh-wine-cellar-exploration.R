@@ -110,3 +110,9 @@ qplot(Vintage, Grade, data = wine, geom = 'jitter')
 
 qplot(Grade, Country.Region, data = wine, geom = 'jitter')
 
+# Export as a simple file
+# write.csv(wine, "UK-wine-cellar-2014.csv")
+
+
+
+
