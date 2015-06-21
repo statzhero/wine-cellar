@@ -3,8 +3,7 @@ URL <- 'https://www.gov.uk/government/uploads/system/uploads/attachment_data/fil
 # NOT WORKING - but why
 wine <- read.csv(URL)
 
-# Introducing a function - or maybe not
-
+# Introducing a function
 read.csv.ssl <- function(url, ...){
   tmpfile <- tempfile()
   download.file(url, destfile = tmpfile, method = "curl")
