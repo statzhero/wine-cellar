@@ -1,537 +1,537 @@
-"country-region","vintage","product-name","grade","consumption"
-"Alsace",2001,"Gewürztraminer Cuvée Théo 2001, Domaine Weinbach (Colette Faller et filles)","B","0"
-"Alsace",2001,"Riesling Grand Cru Wineck-Schlossberg 2001, Domaine Meyer-Fonné","B","0"
-"Alsace",2001,"Tokay Pinot Gris Réserve Particulière 2001, Domaine Meyer-Fonné","B","0"
-"Alsace",2007,"Domaine Marcel Deiss Riesling 2007","B","19"
-"Alsace",2007,"Pinot Gris Les Eléments 2007 (Domaine Bott-Geyl)","B","12"
-"Alsace",2007,"Riesling Grand Cru Kirchberg 2007 (Domaine Jean Sipp)","B","4"
-"Alsace",2008,"Pinot Gris 2008 (Domaine Rolly Gassmann)","B","0"
-"Alsace",2008,"Riesling Grand Cru Saering 2008 (Domaines Schlumberger)","B","0"
-"Alsace",2010,"Gewürztraminer ""Les Princes Abbés"" 2010 (Domaines Schlumberger)","B","0"
-"Argentina",2003,"Prodigo Malbec Reserva 2003, Alessandro Speri, Mendoza","B","0"
-"Australian",1995,"Lindemans ""Pyrus"" Cabernet Sauvignon 1995","B","2"
-"Australian",1997,"Eileen Hardy Shiraz 1997, McLaren Vale","B","0"
-"Australian",1997,"Mitchells Peppertree Shiraz, Clare Valley 1997","C","0"
-"Australian",2002,"D'Arenberg The Coppermine Road Cabernet Sauvignon 2002, McLaren Vale","B","0"
-"Australian",2002,"Katnook Estate Prodigy Shiraz 2002, Coonawarra","B","0"
-"Australian",2002,"Warner Vineyard Giaconda Shiraz 2002","B","0"
-"Australian",2002,"Yalumba Eden Valley Viognier 2002","B","4"
-"Australian",2008,"Moss Wood Chardonnay 2008, Margaret River","B","4"
-"Austrian",2001,"Grüner Veltliner Thal Novemberlese 2001 (Hiedler)","B","25"
-"Austrian",2011,"Loibner Steinertal Riesling Smaragd 2011, F X Pichler","B","0"
-"Austrian",2011,"Steiner Riesling Ried Pfaffenberg Selection 2011 Trocken, Weingut Knoll","B","0"
-"Bordeaux",1955,"Château Latour 1955, 1er Cru Classé, Pauillac","A1","0"
-"Bordeaux",1961,"Château Gruaud-Larose 1961, 2me Cru Classé, St Julien","A1","0"
-"Bordeaux",1961,"Château Latour 1961, 1er Cru Classé, Pauillac","A1","0"
-"Bordeaux",1961,"Château Margaux 1961, 1er Cru Classé, Margaux","A1","0"
-"Bordeaux",1962,"Château Latour 1962, 1er Cru Classé, Pauillac","A","0"
-"Bordeaux",1962,"Château Margaux 1962, 1er Cru Classé, Margaux","A","0"
-"Bordeaux",1970,"Château Palmer 1970, Magnums, 3me Cru Classé, Margaux","A1","0"
-"Bordeaux",1970,"Château Pétrus 1970, Cru Exceptionnel, Pomerol","A1","0"
-"Bordeaux",1975,"Château Cheval Blanc 1975, 1er Grand Cru Classé, St Emilion","A","0"
-"Bordeaux",1975,"Château Cheval Blanc 1975, Magnums, 1er Grand Cru Classé, St Emilion","A","0"
-"Bordeaux",1975,"Château Margaux 1975, 1er Cru Classé, Margaux","A","0"
-"Bordeaux",1975,"Château Palmer 1975, 3me Cru Classé, Margaux","B","0"
-"Bordeaux",1978,"Château Pétrus 1978, Cru Exceptionnel, Pomerol","A1","0"
-"Bordeaux",1979,"Château Margaux 1979, 1er Cru Classé, Margaux","A1","0"
-"Bordeaux",1981,"Château Beychevelle 1981, 4me Cru Classé, St Julien","B","0"
-"Bordeaux",1981,"Château Cheval Blanc 1981, 1er Grand Cru Classé, St Emilion","A","0"
-"Bordeaux",1982,"Château Beychevelle 1982, Magnums, 4me Cru Classé, St Julien","A","0"
-"Bordeaux",1982,"Château Margaux 1982, 1er Cru Classé, Margaux","A1","0"
-"Bordeaux",1983,"Château Cheval Blanc 1983, 1er Grand Cru Classé, St Emilion","A1","5"
-"Bordeaux",1983,"Château Margaux 1983, 1er Cru Classé, Margaux","A1","0"
-"Bordeaux",1985,"Château Brane-Cantenac 1985, Magnums, 2me Cru Classé, Cantenac-Margaux","B","0"
-"Bordeaux",1985,"Château Cheval Blanc 1985, 1er Grand Cru Classé, St Emilion","A1","5"
-"Bordeaux",1985,"Château Gruaud-Larose 1985, 2me Cru Classé, St Julien","A","0"
-"Bordeaux",1985,"Château Margaux 1985, 1er Cru Classé, Margaux","A1","7"
-"Bordeaux",1986,"Château Beychevelle 1986, 4me Cru Classé, St Julien","B","0"
-"Bordeaux",1986,"Château Cheval Blanc 1986, 1er Grand Cru Classé, St Emilion","A1","0"
-"Bordeaux",1986,"Château Cos d’Estournel 1986, Magnums, 2me Cru Classé, St Estèphe","A","0"
-"Bordeaux",1986,"Château Ducru-Beaucaillou 1986, 2me Cru Classé, St Julien","B","3"
-"Bordeaux",1986,"Château Giscours 1986, 3me Cru Classé, Labarde-Margaux","B","0"
-"Bordeaux",1986,"Château Margaux 1986, 1er Cru Classé, Margaux","A1","0"
-"Bordeaux",1986,"Château Montrose 1986, 2me Cru Classé, St Estèphe","A","11"
-"Bordeaux",1986,"Château Mouton Rothschild 1986, 1er Cru Classé, Pauillac","A1","0"
-"Bordeaux",1986,"Château Pichon-Longueville Baron 1986, 2me Cru Classé, Pauillac","B","4"
-"Bordeaux",1986,"Château Pichon-Longueville, Comtesse de Lalande 1986, 2me Cru Classé, Pauillac","A","0"
-"Bordeaux",1986,"Domaine de Chevalier 1986, Grand Cru Classé, Graves","B","0"
-"Bordeaux",1986,"Le Pin 1986, Principal Growth, Pomerol","A1","0"
-"Bordeaux",1986,"Vieux Château Certan 1986, Magnums, Principal Growth, Pomerol","A","0"
-"Bordeaux",1988,"Chateau Belair 1988","B","0"
-"Bordeaux",1988,"Château Cos d’Estournel 1988, 2me Cru Classé, St Estèphe","A","1"
-"Bordeaux",1988,"Château La Lagune 1988, 3me Cru Classé, Ludon (Haut Médoc)","B","0"
-"Bordeaux",1988,"Château Lafite Rothschild 1988, 1er Cru Classé, Pauillac","A1","0"
-"Bordeaux",1988,"Château Lynch Bages 1988, 5me Cru Classé, Pauillac","B","0"
-"Bordeaux",1988,"Château Magdelaine 1988, 1er Grand Cru Classé, St Emilion","B","0"
-"Bordeaux",1988,"Château Margaux 1988, 1er Cru Classé, Margaux","A1","0"
-"Bordeaux",1988,"Château Mouton-Rothschild 1988, 1er Cru Classé, Pauillac","A","0"
-"Bordeaux",1988,"Château Pichon-Longueville Baron 1988, 2me Cru Classé, Pauillac","B","23"
-"Bordeaux",1988,"Château Rauzan-Ségla 1988, 2me Cru Classé, Margaux","B","5"
-"Bordeaux",1988,"Château Troplong Mondot 1988, St Emilion","C","0"
-"Bordeaux",1988,"Vieux Château Certan 1988, Cru Exceptionnel, Pomerol","B","0"
-"Bordeaux",1989,"Château Angélus 1989, Grand Cru Classé, St Emilion","B","0"
-"Bordeaux",1989,"Chateau Beauséjour-Duffau-Lagarrosse 1989","B","32"
-"Bordeaux",1989,"Château Cos d’Estournel 1989, 2me Cru Classé, St Estèphe","A","15"
-"Bordeaux",1989,"Château Haut Brion 1989, 1er Cru Classé, Graves","A1","0"
-"Bordeaux",1989,"Château Léoville Lascases 1989, 2me Cru Classé, St Julien","A","53"
-"Bordeaux",1989,"Château Léoville Poyferré 1989, 2me Cru Classé, St Julien","B","24"
-"Bordeaux",1989,"Château Mouton Rothschild 1989, 1er Cru Classé, Pauillac","A1","0"
-"Bordeaux",1990,"Chateau Beychevelle 1990, 4me Cru Classé, St Julien","B","16"
-"Bordeaux",1990,"Château Brane-Cantenac 1990, 2me Cru Classé, Cantenac-Margaux","B","28"
-"Bordeaux",1990,"Château Calon-Ségur 1990, 3me Cru Classé, St Estèphe","B","32"
-"Bordeaux",1990,"Château Canon 1990,  (Magnums) 1er Grand Cru Classé, St Emilion","B","0"
-"Bordeaux",1990,"Château Canon 1990, 1er Grand Cru Classé, St Emilion","B","3"
-"Bordeaux",1990,"Château Cos d’Estournel 1990, 2me Cru Classé, St Estèphe","A","0"
-"Bordeaux",1990,"Château Grand-Puy-Lacoste 1990, 5me Cru Classé, Pauillac","B","0"
-"Bordeaux",1990,"Château Lafite Rothschild 1990, 1er Cru Classé, Pauillac","A1","0"
-"Bordeaux",1990,"Château Langoa Barton 1990, 3me Cru Classé, St Julien","B","12"
-"Bordeaux",1990,"Château Latour 1990, 1er Cru Classé, Pauillac","A1","0"
-"Bordeaux",1990,"Château Léoville Barton 1990, 2me Cru Classé, St Julien","A","0"
-"Bordeaux",1990,"Château Léoville Poyferré 1990, 2me Cru Classé, St Julien","A","32"
-"Bordeaux",1990,"Château Lynch Bages 1990, 5me Cru Classé, Pauillac","A","0"
-"Bordeaux",1990,"Château Lynch Bages, (Magnums) 1990, 5me Cru Classé, Pauillac","A","0"
-"Bordeaux",1990,"Château Margaux 1990, 1er Cru Classé, Margaux","A1","0"
-"Bordeaux",1990,"Château Mouton-Rothschild 1990, 1er Cru Classé, Pauillac","A1","0"
-"Bordeaux",1990,"Château Pichon-Longueville Baron 1990, 2me Cru Classé, Pauillac","A1","1"
-"Bordeaux",1990,"Château Pichon-Longueville, Comtesse de Lalande 1990, 2me Cru Classé, Pauillac","A1","11"
-"Bordeaux",1990,"Chateau Sénéjac 1990","B","0"
-"Bordeaux",1990,"Château Talbot 1990, 4me Cru Classé, St Julien","B","0"
-"Bordeaux",1990,"Château Trotanoy 1990, Grand Cru Classé, Pomerol","A1","1"
-"Bordeaux",1990,"Domaine de Chevalier 1990","B","0"
-"Bordeaux",1993,"Château Le Tetre-Rôteboeuf 1993","B","0"
-"Bordeaux",1994,"Château d'Angludet 1994, Margaux","C","60"
-"Bordeaux",1994,"Chateau Grand-Puy-Lacoste 1994, Pauillac","B","0"
-"Bordeaux",1994,"Chateau La Grave à Pomerol (Trigant de Boisset) 1994","C","0"
-"Bordeaux",1994,"Chateau Latour à Pomerol 1994","A","0"
-"Bordeaux",1994,"Château Léoville Barton, St Julien 1994","B","0"
-"Bordeaux",1994,"Château Lynch-Bages 1994, 5me Cru Classé, Pauillac","B","0"
-"Bordeaux",1994,"Chateau Magdelaine 1994, 1er Grand Cru, St Emilion","B","0"
-"Bordeaux",1994,"Château Rauzan-Ségla 1994, 2me Cru Classé, Margaux","B","0"
-"Bordeaux",1995,"Chateau Brane-Cantenac 1995, 2me Cru, Margaux","B","1"
-"Bordeaux",1995,"Château Clerc Milon 1995, Pauillac","B","1"
-"Bordeaux",1995,"Château Durfort Vivens 1995, 2me Cru, Margaux","B","1"
-"Bordeaux",1995,"Chateau Grand Mayne 1995, Grand Cru Classé, Saint Emilion","B","2"
-"Bordeaux",1995,"Chateau La Dominique 1995, Grand Cru Classé, Saint Emilion","B","1"
-"Bordeaux",1995,"Château La Fleur Pétrus 1995","A","1"
-"Bordeaux",1995,"Château La Lagune 1995, 3ème Cru Ludon, Medoc","B","1"
-"Bordeaux",1995,"Château Lagrange 1995, St Julien","B","1"
-"Bordeaux",1995,"Château Langoa Barton 1995, 3me Cru Classé, St Julien","B","2"
-"Bordeaux",1995,"Chateau Latour à Pomerol 1995","B","1"
-"Bordeaux",1995,"Château Tour Haut Caussan 1995","C","0"
-"Bordeaux",1995,"Domaine de Chevalier, 1995 Grand Cru Classé, Graves","B","1"
-"Bordeaux",1996,"Château Batailley 1996, 5ème Cru Pauillac","B","1"
-"Bordeaux",1996,"Chateau Beaumont 1996, Cru Bourgeois Haut Médoc","C","115"
-"Bordeaux",1996,"Château Cheval Blanc 1996, 1er Grand Cru St Emilion","A","1"
-"Bordeaux",1996,"Château Duhart Milon Rothschild 1996, 5ème Cru Classé, Pauillac","B","1"
-"Bordeaux",1996,"Chateau Gruaud Larose 1996, 2ème Cru Classé, Saint Julien","B","1"
-"Bordeaux",1996,"Château Haut-Brion 1996, Pessac-Léognan","A","1"
-"Bordeaux",1996,"Chateau La Lagune 1996, 3ème Cru, Haut Médoc","B","1"
-"Bordeaux",1996,"Chateau La Lagune 1996, Magnums, 3ème Cru, Haut Médoc","B","0"
-"Bordeaux",1996,"Château Léoville Poyferré 1996, 5ème Cru, St Julien","B","1"
-"Bordeaux",1996,"Chateau Phélan Ségur, Cru Bourgeois, St Estèphe 1996","B","2"
-"Bordeaux",1996,"Château Talbot 1996, 4ème Cru Classé, St Julien","B","1"
-"Bordeaux",1998,"Château Beauséjour- Duffau-Lagarrosse 1998, 1er Grand Cru Classé, St-Emilion","B","1"
-"Bordeaux",1998,"Château Lafite Rothschild 1998","A1","0"
-"Bordeaux",1998,"Château Langoa Barton 1998, 3me Cru Classé, St Julien","B","1"
-"Bordeaux",1998,"Château Latour 1998 Magnums, 1er Cru Classé, Pauillac","A1","0"
-"Bordeaux",1998,"Château Latour 1998, 1er Cru Classé, Pauillac","A1","0"
-"Bordeaux",1998,"Château Latour à Pomerol 1998","B","1"
-"Bordeaux",1998,"Château Lynch Bages 1998, 5eme Cru Classé, Pauillac","B","1"
-"Bordeaux",1998,"Château Margaux 1998, 1er Cru Classé, Margaux","A1","0"
-"Bordeaux",1998,"Château Trotanoy 1998","A1","1"
-"Bordeaux",1998,"Couvent des Jacobins 1998, Grand Cru St Emilion","B","1"
-"Bordeaux",2000,"Château Cambon La Pelouse 2000, Haut Médoc","C","9"
-"Bordeaux",2000,"Château de Fonbel 2000, Grand Cru St Emilion, (Alain Vauthier)","B","0"
-"Bordeaux",2000,"Château Feytit-Clinet 2000, Pomerol (Magnums)","B","0"
-"Bordeaux",2000,"Château Gruaud-Larose 2000, 2eme Cru Classé, St Julien","B","0"
-"Bordeaux",2000,"Château Guillot 2000, Pomerol","B","0"
-"Bordeaux",2000,"Château La Fleur Pétrus 2000, Pomerol","A","0"
-"Bordeaux",2000,"Château Latour à Pomerol 2000, Pomerol","A","0"
-"Bordeaux",2000,"Château Lynch-Bages 2000, 5ème Cru Classé, Pauillac","B","0"
-"Bordeaux",2000,"Château Pichon-Longueville Comtesse de Lalande 2000, Pauillac","A","0"
-"Bordeaux",2000,"Château Talbot 2000, 4eme Cru Classé, St Julien","B","0"
-"Bordeaux",2001,"Château Haut Brion 2001, 1er Cru Graves","A","0"
-"Bordeaux",2001,"Château La Fleur Pétrus 2001, Pomerol","A","0"
-"Bordeaux",2001,"Château La Grave à Pomerol 2001, Pomerol","B","0"
-"Bordeaux",2001,"Château La Lagune 2001, 3ème Cru Ludon, Médoc","B","0"
-"Bordeaux",2001,"Château La Mission Haut-Brion 2001, Cru Classé, Pessac-Leognan","A","0"
-"Bordeaux",2001,"Château Latour à Pomerol 2001, Pomerol","B","0"
-"Bordeaux",2001,"Château Léoville-Poyferré 2001, 2ème Cru St Julien","B","0"
-"Bordeaux",2001,"Château Montrose 2001, 2ème Cru St Estèphe","B","0"
-"Bordeaux",2001,"Château Mouton Rothschild 2001, 1er Cru Pauillac","A","0"
-"Bordeaux",2001,"Château Pichon-Longueville Baron 2001, 2me Cru Classé, Pauillac","B","0"
-"Bordeaux",2001,"Château Pichon-Longueville Comtesse de Lalande 2001, 2ème Cru Classé, Pauillac","A","0"
-"Bordeaux",2001,"Château Pontet Canet 2001, 5ème Cru Pauillac","B","0"
-"Bordeaux",2003,"Château Bahans Haut-Brion 2003, Pessac-Léognan, Graves","B","0"
-"Bordeaux",2003,"Château Beauséjour Duffau-Lagarosse 2003, 1er Grand Cru, St Emilion","B","0"
-"Bordeaux",2003,"Château d'Armailhac 2003, 5ème Cru, Pauillac","B","0"
-"Bordeaux",2003,"Château Haut Bailly 2003, Grand Cru Classé, Graves","B","0"
-"Bordeaux",2003,"Château La Lagune 2003, 3ème Cru Classé, Ludon","B","0"
-"Bordeaux",2003,"Château La Mission Haut-Brion 2003, Cru Classé, Pessac-Léognan","A","0"
-"Bordeaux",2003,"Château Les Grands Chênes 2003, Médoc","B","0"
-"Bordeaux",2003,"Château Lynch Bages 2003, 5ème Cru, Pauillac","B","0"
-"Bordeaux",2003,"Château Plince 2003, Cru Classé, Pomerol","B","0"
-"Bordeaux",2003,"Château Rausan-Ségla 2003, 2ème Cru, Margaux","B","0"
-"Bordeaux",2003,"Pavillon Rouge du Château Margaux 2003, Margaux","B","0"
-"Bordeaux",2004,"Château d'Angludet 2004, Margaux","B","0"
-"Bordeaux",2004,"Château Gazin 2004, Pomerol","B","0"
-"Bordeaux",2004,"Château Grand Puy Lacoste 2004, 5ème Cru Classé, Pauillac","B","0"
-"Bordeaux",2004,"Château Gruaud-Larose 2004, 2ème Cru Classé, St Julien","B","0"
-"Bordeaux",2004,"Château La Conseillante 2004, Pomerol","A","0"
-"Bordeaux",2004,"Château La Mission-Haut-Brion 2004, Pessac-Léognan","A","0"
-"Bordeaux",2004,"Château Lynch Bages 2004, 5ème Cru Classé, Pauillac","B","0"
-"Bordeaux",2004,"Château Pichon-Longueville, Comtesse de Lalande 2004, 2ème Cru Classé, Pauillac","A","0"
-"Bordeaux",2004,"Château Talbot 2004, 4ème Cru Classé, Saint Julien","B","0"
-"Bordeaux",2004,"Clos Fourtet 2004 1er Grand Cru Classé, St Emilion","B","0"
-"Bordeaux",2004,"Domaine de Chevalier 2004, Grand Cru Classé, Pessac-Léognan","B","0"
-"Bordeaux",2004,"Vieux Château Certan 2004, Pomerol","A","0"
-"Bordeaux",2005,"Château Belgrave 2005, 5ème Cru Classé, Haut-Médoc","B","0"
-"Bordeaux",2005,"Château Brane-Cantenac 2005, 2ème Cru Classé, Cantenac-Margaux","B","0"
-"Bordeaux",2005,"Château Gruaud-Larose 2005, 2ème Cru Classé, St Julien","B","0"
-"Bordeaux",2005,"Château Lagrange 2005, Cru Classé, Pomerol","B","0"
-"Bordeaux",2005,"Château Léoville-Barton 2005, 2ème Cru Classé St Julien","B","0"
-"Bordeaux",2005,"Château Lynch Bages 2005, 5ème Cru Classé, Pauillac","B","0"
-"Bordeaux",2005,"Château Pichon-Longueville Baron 2005, 2ème Cru Classé, Pauillac","A","0"
-"Bordeaux",2005,"Château Talbot 2005, 4ème Cru Classé, St Julien","B","0"
-"Bordeaux",2005,"Domaine de Chevalier 2005, Cru Classé, Pessac-Léognan","B","0"
-"Bordeaux",2005,"Vieux Château Certan 2005, 1er Grand Cru Classé, Pomerol","A","0"
-"Bordeaux",2006,"Château Brane-Cantenac 2006, 2ème Cru Classé, Margaux","B","0"
-"Bordeaux",2006,"Château Cos d'Estournel 2006, 2ème Cru Classé, St Estèphe","B","0"
-"Bordeaux",2006,"Château Gazin 2006, Pomerol","B","0"
-"Bordeaux",2006,"Château Grand-Puy-Lacoste 2006, 5ème Cru Classé, Pauillac","B","0"
-"Bordeaux",2006,"Château Pichon-Longueville Baron 2006, 2ème Cru Classé, Pauillac","B","0"
-"Bordeaux",2006,"Château Pichon-Longueville Comtesse de Lalande 2006, 2ème Cru Classé, Pauillac","A","0"
-"Bordeaux",2006,"Château Rauzan-Ségla 2006, 2ème Cru Classé, Margaux","B","0"
-"Bordeaux",2006,"Château St Pierre 2006, 4ème Cru Classé, St Julien","B","0"
-"Bordeaux",2009,"Château Grand Puy Lacoste 2009, 5ème Cru Classé, Pauillac","B","0"
-"Bordeaux",2009,"Château Haut-Batailley 2009, 5ème Cru Classé, Pauillac","B","0"
-"Bordeaux",2009,"Château Lascombes 2009, 2ème Cru Classé, Margaux","B","0"
-"Bordeaux",2009,"Château Lynch-Moussas 2009, 5ème Cru Classé, Pauillac","B","0"
-"Bordeaux",2009,"Château Talbot 2009, 4ème Cru Classé, St Julien","B","0"
-"Brandy (Armagnac)",,"Armagnac Chateau de Laubade, Hors d'Age","B","0"
-"Brandy (Armagnac)",,"Marquis de Puysegur VSOP Armagnac, Gers District","B","0"
-"Brandy (NV Cognac)",,"Delamain Pale and Dry Grande Champagne Cognac, Grande Champagne","B","0"
-"Brandy (NV Cognac)",,"FLB Grande Champagne Cognac NV","B","1"
-"Brandy (NV Cognac)",,"Harvey's Fine Champagne Cognac, Grande Champagne District","B","0"
-"Brandy (NV Cognac)",,"Hine Vieille fine Champagne Cognac","B","0"
-"Brandy (NV Cognac)",1995,"Somerset 10 Year Old Cider Brandy","C","2"
-"Brandy (Vintage Cognac)",1878,"Grands Fins Bois 1878 Cognac, Charente, Berry Bros","A","0"
-"Brandy (Vintage Cognac)",1906,"Hine 1906, Cognac Grand Fine Champagne District, D Sandeman","A","0"
-"Brandy (Vintage Cognac)",1912,"Hennessy 1912, Fine Liqueur Cognac, Grande Champagne District, Hennessy","A","Quarter"
-"Brandy (Vintage Cognac)",1913,"Martell 1913, Fine Liqueur Cognac, Grande Champagne District, D Sandeman","A","Quarter"
-"Brandy (Vintage Cognac)",1921,"Martell 1921, Cognac Grande Champagne District, J Harvey","A","0"
-"Brandy (Vintage Cognac)",1922,"Hine 1922, Cognac Grande Champagne District","A","0"
-"Brandy (Vintage Cognac)",1924,"Hine 1924, Cognac Grande Champagne District, Army & Navy","A","0"
-"Brandy (Vintage Cognac)",1934,"Christopher's Grande Fine Champagne Cognac 1934","A","0"
-"Brandy (Vintage Cognac)",1948,"Frapin Grande Champagne Cognac 1948","A","0"
-"Brandy (Vintage Cognac)",1960,"Hine Grande Champagne Cognac 1960, landed 1962, bottled 1986","A","1 and three quarters"
-"Brandy (Vintage Cognac)",1970,"Delamain Fine Champagne Cognac 1970","U","0"
-"Burgundy (Red)",1961,"Corton 1961, Grand Cru, Côte de Beaune, Bouchard Père et Fils","A","0"
-"Burgundy (Red)",1985,"Morey-St-Denis 1985, Côte de Nuits, Vienot","C","0"
-"Burgundy (Red)",1988,"Echézeaux 1988, Côte de, Nuits, Domaine Dujac","A","4"
-"Burgundy (Red)",1988,"Savigny-lès-Beaune les Lavières 1988, Côte de Beaune, Chandon de Briailles","B","0"
-"Burgundy (Red)",1990,"Corton Bressandes 1990, Grand Cru, Côte de Beaune, Chandon de Briailles","A1","5"
-"Burgundy (Red)",1990,"Echézeaux Grand Cru 1990, Côte de Nuits, Domaine de la Romanée-Conti","A1","0"
-"Burgundy (Red)",1990,"Vosne Romanée 1990, Côte de Nuits, Champy Père et Cie","B","0"
-"Burgundy (Red)",1993,"Gevrey Chambertin Clos Prieur 1993 Domaine Thierry Mortet","B","24"
-"Burgundy (Red)",1993,"Savigny Les Beaune Aux Guettes 1993, Dom. Pavelot","B","0"
-"Burgundy (Red)",1995,"Clos de Vougeot Grand Cru 1995, Domaine Drouhin-Laroze","A","14"
-"Burgundy (Red)",1995,"Mazy Chambertin 1995  (Domaine Armand Rousseau)","B","15"
-"Burgundy (Red)",1995,"Pommard 1er Cru Grand Clos Des Epenots 1995, Dom. de Courcel","B","0"
-"Burgundy (Red)",1996,"Beaune 1er Cru Montrevenots 1996, Domaine Jean-Marc Boillot","C","0"
-"Burgundy (Red)",1996,"Beaune-Grèves 1996, 1er Cru, Tollot-Beaut","B","48"
-"Burgundy (Red)",1996,"Chambolle Musigny 1996, Joseph Drouhin","B","3"
-"Burgundy (Red)",1996,"Clos de Vougeot 1996, Joseph Drouhin, Côte de Nuits","A","0"
-"Burgundy (Red)",1996,"Corton Clos du Roi 1996, Grand Cru, Domaine Chandon de Briailles","A","0"
-"Burgundy (Red)",1996,"Echezeaux Grd Cru (Champy) 1996","A","4"
-"Burgundy (Red)",1996,"Nuits St Georges 1er Cru Clos des Forets de St Georges, Domaine de L'Arlot 1996","B","4"
-"Burgundy (Red)",1996,"Pommard 1er Cru Clos des Epenots 1996, Domaine de Courcel","B","3"
-"Burgundy (Red)",1996,"Savigny Les Lavières 1996, 1er Cru, Tollot- Beaut","C","0"
-"Burgundy (Red)",1999,"Aloxe Corton 1999 1er Cru Clos du Chapitre","C","1"
-"Burgundy (Red)",1999,"Aloxe-Corton 1er Cru Les Fournières (Domaine Tollot-Beaut) 1999","B","16"
-"Burgundy (Red)",1999,"Clos de Vougeot 1999, Grand Cru, Domaine Hudelot-Noellat","A","1"
-"Burgundy (Red)",1999,"Le Corton Grand Cru 1999, Domaine Bouchard Père et Fils","B","1"
-"Burgundy (Red)",1999,"Nuits-Saint-Georges 1er Cru Les Pruliers 1999 (Robert Chevillon)","A","10"
-"Burgundy (Red)",1999,"Pommard 1er Cru Clos des Epeneaux 1999, Domaine Comte Armand","B","1"
-"Burgundy (Red)",1999,"Savigny les Beaune, 1er Cru, Les Lavières 1999 (Domaine Chandon de Briailles)","C","1"
-"Burgundy (Red)",1999,"Volnay 1er Cru Clos de la Barre 1999 (Louis Jadot)","B","1"
-"Burgundy (Red)",1999,"Volnay Caillerets 1er Cru 1999, Ancienne Cuvée Carnot (Dom. Bouchard Père et fils)","B","1"
-"Burgundy (Red)",1999,"Vosne Romanée 1999 1er Cru Les Malconsorts, Domaine Hudelot-Noellat","A","1"
-"Burgundy (Red)",2002,"Beaune Clos des Mouches 2002","B","1"
-"Burgundy (Red)",2002,"Bonnes-Mares Grand Cru 2002, Domaine Drouhin-Laroze","A","1"
-"Burgundy (Red)",2002,"Chassagne-Montrachet 1er Cru Clos du Château 2002, Château de la Maltroye","C","1"
-"Burgundy (Red)",2002,"Latricières Chambertin Grand Cru 2002 (Domaine Nicolas Potel)","A","2"
-"Burgundy (Red)",2002,"Latricières-Chambertin Grand Cru 2002, Drouhin Laroze","A","3"
-"Burgundy (Red)",2002,"Nuits-St-Georges 1er Cru aux Perdrix 2002, Domaine de Perdrix","B","1"
-"Burgundy (Red)",2002,"Nuits-St-Georges 1er Cru Clos des Fôrets Saint Georges 2002, Domaine de L'Arlot","B","1"
-"Burgundy (Red)",2002,"Nuits-St-Georges 1er Cru Les Boudots 2002, Louis Jadot","B","1"
-"Burgundy (Red)",2002,"Vosne Romanée 2002, Domaine Michel Gros","B","1"
-"Burgundy (Red)",2002,"Vosne Romanée Les Malconsorts 2002, (Domaine Nicolas Potel)","B","1"
-"Burgundy (Red)",2003,"Clos de la Roche Grand Cru 2003 (Domaine David Duband)","B","0"
-"Burgundy (Red)",2003,"Clos de Vougeot Grand Cru 2003 (Domaine René Engel)","B","0"
-"Burgundy (Red)",2003,"Corton Les Grandes Lolières 2003 (Domaine Bertagna)","B","0"
-"Burgundy (Red)",2003,"Corton Pougets Grand Cru 2003 (Louis Jadot)","B","0"
-"Burgundy (Red)",2003,"Gevrey-Chambertin Clos du Fonteny 2003 (Domaine Bruno Clair)","B","0"
-"Burgundy (Red)",2003,"Nuits-St-Georges 1er Cru Les Damodes 2003 (Domaine Jean Chauvenet)","B","0"
-"Burgundy (Red)",2003,"Nuits-St-Georges 1er Cru Les Saint Georges 2003 (Domaine Thibault Liget-Belair)","B","0"
-"Burgundy (Red)",2005,"Gevrey Chambertin 1er Cru Au Closeau 2005 (Drouhin-Laroze)","B","0"
-"Burgundy (Red)",2005,"Gevrey Chambertin Clos Prieur 2005 (Domaine Roy)","B","0"
-"Burgundy (Red)",2005,"Morey-St-Denis 1er Cru Les Millandes 2005 (Domaine Pierre Amiot et fils)","B","0"
-"Burgundy (Red)",2005,"Nuits-St-Georges 1er Cru Les Vignes Rondes 2005 (Confuron Coteditot)","B","0"
-"Burgundy (Red)",2005,"Nuits-St-Georges Clos des Grandes Vignes 2005 (Montille)","B","0"
-"Burgundy (Red)",2005,"Nuits-St-Geroges 1er Cru Les Damodes 2005 (Chauvenet)","B","0"
-"Burgundy (Red)",2005,"Pommard Les Petits Noizons 2005 (Domaine de la Vougeraie)","B","0"
-"Burgundy (Red)",2005,"Volnay Cailleret 1er Cru 2005, Domaine Nicolas Rossignol","B","0"
-"Burgundy (Red)",2005,"Vosne-Romanée 1er Cru Les Suchots 2005 (Domaine J Confuron Côteditot)","B","0"
-"Burgundy (Red)",2009,"Aloxe-Corton 1er Cru Les Fournières 2009 (Domaine Tollot-Beaut)","B","0"
-"Burgundy (Red)",2009,"Beaune Grèves 1er Cru 2009 (Domaine Tollot-Beaut)","B","0"
-"Burgundy (Red)",2009,"Chambolle-Musigny 2009 (Domaine Confuron-Cotetidot)","B","0"
-"Burgundy (Red)",2009,"Nuits-St-Georges 1er Cru Clos des Forêts St-Georges 2009 (Domaine de l'Arlot)","B","0"
-"Burgundy (Red)",2009,"Nuits-St-Georges 1er Cru Les Pruliers 2009 (Jean Grivot)","B","0"
-"Burgundy (White)",1985,"Bâtard-Montrachet 1985, Grand Cru, J N Gagnard","A1","0"
-"Burgundy (White)",1988,"Chevalier-Montrachet 1988, Côte de Beaune, Domaine Michel Niellon","A1","0"
-"Burgundy (White)",1989,"Bâtard-Montrachet 1989, Côte de Beaune, Domaine Gagnard-Delagrange","A1","0"
-"Burgundy (White)",1990,"Corton-Charlemagne 1990, Grand Cru (Bonneau du Martray)","A1","0"
-"Burgundy (White)",1997,"Corton Charlemagne 1997, Domaine Bonneau du Martray","B","0"
-"Burgundy (White)",1998,"Chassagne Montrachet 1998, Domaine Blain Gagnard","B","0"
-"Burgundy (White)",1998,"Pouilly Fuissé Les Brûlés Château Fuissé 1998, JJ Vincent","B","0"
-"Burgundy (White)",1998,"Puligny-Montrachet 1er Cru Le Clavoillon 1998, Domaine Leflaive","A","0"
-"Burgundy (White)",1999,"Chassagne-Montrachet 1er Cru Les Chaumées 1999","A","1"
-"Burgundy (White)",1999,"Pouilly Fuissé Les Crays Vieilles Vignes 1999, Domaine Daniel Barraud","B","0"
-"Burgundy (White)",1999,"Puligny-Montrachet 1er Cru Les Champs Canet 1999 (Olivier Leflaive)","B","0"
-"Burgundy (White)",2000,"Chassagne-Montrachet 1er Cru Les Chenevottes 2000 (Domaine Jean-Noël Gagnard)","B","0"
-"Burgundy (White)",2000,"Chassagne-Montrachet Marquis de Laguiche 2000 (Joseph Drouin)","A","0"
-"Burgundy (White)",2000,"Corton-Charlemagne 2000, Grand Cru (Domaine Vincent Girardin)","B","19"
-"Burgundy (White)",2000,"Pouilly-Fuissé 'Terroir de Vergisson' 2000 (Olivier Merlin)","B","1"
-"Burgundy (White)",2000,"Puligny-Montrachet Les Champs Gains 2000, (Bouchard Père et Fils)","B","0"
-"Burgundy (White)",2001,"Bâtard-Montrachet Grand Cru 2001 (Domaine Blain-Gagnard)","A","4"
-"Burgundy (White)",2001,"Chassagne Montrachet 2001 (Domaine Fontaine-Gagnard)","B","0"
-"Burgundy (White)",2002,"Chablis 1er Cru Montée de Tonnerre 2002 (Domaine Fèvre)","B","0"
-"Burgundy (White)",2002,"Chassagne Montrachet 1er Cru Morgeot 2002, Domaine du Duc de Magenta (Louis Jadot)","B","19"
-"Burgundy (White)",2002,"Chassagne-Montrachet 1er Cru En Virondot 2002 (Domaine Marc Morey)","B","27"
-"Burgundy (White)",2002,"Pernand-Vergelesses Blanc 2002, Maison Champy","C","0"
-"Burgundy (White)",2002,"Puligny Montrachet 1er Cru Les Referts 2002 (Louis Jadot)","B","5"
-"Burgundy (White)",2002,"Rully 1er Cru Margoté 2002, (Domaine Jacqueson)","C","0"
-"Burgundy (White)",2004,"Chablis Grand Cru Les Clos 2004, (Domaine William Fèvre)","B","41"
-"Burgundy (White)",2004,"Chablis Grand Cru Vaudèsir 2004, William Fèvre","B","15"
-"Burgundy (White)",2004,"Chassagne-Montrachet 1er Cru La Grande Montagne 2004 (Domaine Fontaine-Gagnard)","B","47"
-"Burgundy (White)",2004,"Chassagne-Montrachet 1er Cru Les Caillerets 2004 (Domaine Fontaine-Gagnard)","B",""
-"Burgundy (White)",2004,"Chassagne-Montrachet 1er Cru Morgeot 2004 (Domaine Jean Noel Gagnard)","B","5"
-"Burgundy (White)",2004,"Corton Charlemagne Grand Cru 2004, Maison Champy","A","3"
-"Burgundy (White)",2004,"Pouilly Fuissé La Roche 2004, Bret Brothers","C","3"
-"Burgundy (White)",2004,"Puligny-Montrachet 1er Cru Hameau de Blagny 2004 (Domaine Etienne Sauzet)","B","37"
-"Burgundy (White)",2004,"Pulilgny-Montrachet Champ Gain 2004, (Domaine Gagey), Louis Jadot","B","28"
-"Burgundy (White)",2005,"Chablis 1er Cru Montée de Tonnerre 2005 (Jean-Paul et Benoît Droin)","B","45"
-"Burgundy (White)",2005,"Corton-Charlemagne Grand Cru 2005, Domaine Bonneau de Martray","A","0"
-"Burgundy (White)",2005,"Meursault 1er Cru Perrières 2005 (Chanson Père et fils)","B","34"
-"Burgundy (White)",2005,"Meursault Les Grands Charrons 2005 (Michel Bouzereau et fils)","B","5"
-"Burgundy (White)",2005,"Puligny-Montrachet 1er Cru Les Champs Gain 2005 (Mischief & Mayhem)","A","11"
-"Burgundy (White)",2005,"Puligny-Montrachet 1er Cru Les Garennes 2005 (Remoissenet Père et fils)","B","28"
-"Burgundy (White)",2006,"Corton-Charlemagne Grand Cru 2006, Domaine Rapet","A","25"
-"Burgundy (White)",2006,"Meursault Charmes 1er Cru 2006, Louis Jadot","B","0"
-"Burgundy (White)",2006,"Meursault-Charmes 1er Cru 2006, Domaine Henri Germain et fils","B","0"
-"Burgundy (White)",2006,"Puligny-Montrachet 1er Cru Les Folatières 2006, Louis Jadot","B","1"
-"Burgundy (White)",2006,"Puligny-Montrachet 1er Cru Les Referts 2006, Remoissenet Père et fils","B","3"
-"Burgundy (White)",2006,"Puligny-Montrachet Château de Puligny-Montrachet 2006","B","0"
-"Burgundy (White)",2007,"Chassagne-Montrachet 1er Cru Morgeot Les Fairendes 2007 (Jean-Marc Pillot)","B","0"
-"Burgundy (White)",2007,"Chassagne-Montrachet 1er Cru Morgeot Vigne Blanche 2007, Château de la Maltroye","B","0"
-"Burgundy (White)",2007,"Chassagne-Montrachet 1er Cru Morgeot Vigne Blanche 2007, Château de la Maltroye","B","0"
-"Burgundy (White)",2007,"Meursault 1er Cru Santenots 2007 (Domaine Marquis d'Angerville)","B","0"
-"Burgundy (White)",2007,"Monthélie Blanc 2007, Château de Puligny-Montrachet","B","8"
-"Burgundy (White)",2007,"Pouilly-Fuissé Les Vieilles Vignes 2007, Château de Fuissé","B","0"
-"Burgundy (White)",2007,"Puligny-Montrachet 1er Cru La Clavoillon 2007 (Domaine Leflaive)","A","0"
-"Burgundy (White)",2008,"Chablis 1er Cru Vaillon 2008, Cuvée Guy Moreau (Domaine Christian Moreau Père et fils)","B","9"
-"Burgundy (White)",2008,"Corton-Charlemagne 2008 Grand Cru (Bonneau du Martray)","B","0"
-"Burgundy (White)",2008,"Meursault 1er Cru En Luraule 2008 (Joseph Drouhin)","B","0"
-"Burgundy (White)",2008,"Puligny-Montrachet Clos de la Garenne 2008 (Domaine du Duc de Magenta) Louis Jadot","B","0"
-"Californian (Red)",1995,"Mondavi Napa Valley Cabernet Sauvignon 1995","B","0"
-"Californian (Red)",1996,"Ridge Zinfandel, Geyserville 1996","B","0"
-"Californian (Red)",1996,"Staglin Cabernet Sauvignon 1996","A","0"
-"Californian (Red)",1997,"Newton Vineyard 1997 Merlot, Special Cuvee, Napa Valley","B","0"
-"Californian (Red)",2000,"Dominus 2000 Napanook (Christian Moueix)","B","0"
-"Californian (Red)",2000,"Ridge Monte Bello 2000","A","0"
-"Champagne (Non Vintage)",,"Berrys UKC Champagne Grand Cru (Mailly) NV","B","132"
-"Champagne (Non Vintage)",,"Bollinger Special Cuvee","B","0"
-"Champagne (Non Vintage)",,"Heidsieck Heritage Brut NV","B","0"
-"Champagne (Non Vintage)",,"Louis Roederer Brut Premier NV","B","0"
-"Champagne (Non Vintage)",,"Pol Roger Brut Reserve","A","27"
-"Champagne (Non Vintage)",,"Louis Roederer Carte Blanche NV","B","25"
-"Champagne (Vintage)",1964,"Krug 1964, Brut,, Magnums, Reims","A1","0"
-"Champagne (Vintage)",1982,"Krug 1982, Magnums, Reims","A","0"
-"Champagne (Vintage)",1985,"Pol Roger Cuvée Sir Winston Churchill 1985","A1","0"
-"Champagne (Vintage)",1986,"Louis Roederer 1986, Magnums, Reims","A","0"
-"Champagne (Vintage)",1990,"Louis Roederer Brut 1990","A","0"
-"Champagne (Vintage)",1995,"Taittinger Comtes de Champagne Blanc de Blancs Brut 1995","A","4"
-"Champagne (Vintage)",1996,"Bollinger Grande Année 1996","A","0"
-"Champagne (Vintage)",1996,"Gosset Grand Millésime Brut 1996","A","0"
-"Champagne (Vintage)",1996,"Louis Roederer Brut 1996","A","0"
-"Champagne (Vintage)",1996,"Louis Roederer Cristal 1996","A","0"
-"Champagne (Vintage)",1996,"Taittinger Brut Millesime 1996","B","0"
-"Champagne (Vintage)",1997,"Alfred Gratien Brut Millésime 1997","B","0"
-"Champagne (Vintage)",1998,"Pol Roger Brut 1998","B","0"
-"Champagne (Vintage)",1998,"Taittinger Comtes de Champagne Blanc de Blancs 1998","A","0"
-"Champagne (Vintage)",2000,"Louis Roederer Brut 2000","A","0"
-"Champagne (Vintage)",2002,"Legras Présidence Vieilles Vignes Grand Cru Brut 2002","B","5"
-"Chile",2001,"Le Dix de Los Vascos 2001 (Domaine Barons de Rothschild) Colchagua","B","3"
-"English & Welsh",2004,"Chapel Down Bacchus Lamberhurst Estate Reserve 2004","C","0"
-"English & Welsh",2004,"Denbies Bacchus 2004","C","0"
-"English & Welsh",2004,"Three Choirs Siegerrebe Estate Reserve 2004","C","0"
-"English & Welsh",2006,"Denbies Ortega 2006","C","10"
-"English & Welsh",2006,"Denbies Schönburger 2006","B","11"
-"English & Welsh",2007,"Chapel Down Bacchus Reserve 2007","C","26"
-"English & Welsh",2009,"Camel Valley Bacchus 2009","C","23"
-"English & Welsh",2009,"Chapel Down Chardonnay 2009","C","3"
-"English & Welsh",2009,"Chapel Down Pinot Blanc 2009","C","0"
-"English & Welsh",2009,"Three Choirs Willow Brook 2009","C","29"
-"English & Welsh",2010,"Camel Valley Atlantic Dry 2010","C","9"
-"English & Welsh",2010,"Chapel Down Chardonnay 2010","C","0"
-"English & Welsh",2010,"Furleigh Estate Bacchus Fumé 2010","C","0"
-"English & Welsh",,"Three Choirs Annum","C","0"
-"Italian (Red)",1994,"Masseto 1994, Bolgheri (Ornellaia)","B","0"
-"Italian (Red)",1995,"Barolo Claudio Alario 1995","B","0"
-"Italian (Red)",1996,"Chianti Classico Riserva, Fonterutoli 1996","B","0"
-"Italian (Red)",1997,"Avvoltore 1997, Maremme Tuscana","B","0"
-"Italian (Red)",1999,"Allegrini La Poja 1999","A","0"
-"Italian (Red)",1999,"Brunello di Montalcino Riserva Talenti 1999","B","0"
-"Italian (Red)",1999,"Gavi di Gavi, La Chiara 1999","U","0"
-"Italian (Red)",2000,"Paleo Le Macchiole 2000, Bolgheri","B","0"
-"Italian (Red)",2001,"Flaccianello della Pieve 2001, Fontodi","B","0"
-"Italian (Red)",2001,"Sassicaia Tenuta San Guido 2001","B","0"
-"Liqueurs",,"Chartreuse Green","","0"
-"Liqueurs",,"Cointreau","","0"
-"Liqueurs",,"Creme de Menthe","","0"
-"Liqueurs",,"Drambuie","","0"
-"Liqueurs",,"Grand Marnier","","0"
-"Loire",2002,"Pouilly Fumé Château de Tracy 2002","C","0"
-"Loire",2006,"Pouilly Fumé Les Cornets 2006 (Domaine Alain Cailbourdin)","B","0"
-"Loire",2006,"Sancerre 2006 (Domaine Tissier)","B","0"
-"Loire",2007,"Sancerre 2007 (Pascal et Nicolas Reverdy)","B","20"
-"Loire",2010,"Sancerre Nuance 2010, Vincent Pinard","B","0"
-"Loire",2010,"Vouvray Le Mont Sec 2010, Domaine Huet","B","0"
-"Malt Whisky",,"Caol Ila 18 Year Old Single Malt","","0"
-"Malt Whisky",,"Dalwhinnie 15 Year Old Single Malt","","1 and a half"
-"Mosel",1990,"Serriger Würtzberg Riesling Auslese 1990, Saar Herrenberg, Bert Simon","A","0"
-"Mosel",2001,"Bernkasteler Badstube Riesling Kabinett 2001 (Dr Thanisch)","B","0"
-"Mosel",2001,"Graacher Himmelreich Riesling Spätlese 2001, JJ Prüm","B","3"
-"Mosel",2001,"Scharzhofberger Riesling Spätlese 2001, von Hövel","B","0"
-"Mosel",2001,"Wehlener Sonnenuhr Riesling Spätlese 2001, JJ Prüm","B","19"
-"Mosel",2007,"Bernkasteler Badstube Riesling Kabinett 2007, (JJ Prüm)","B","1"
-"Mosel",2007,"Maximin Grünhäuser Abtsberg Riesling Kabinett 2007 (Von Schubert)","B","6"
-"Mosel",2007,"Maximin Grünhäuser Abtsberg Riesling Spätlese 2007 (Von Schubert)","B","0"
-"Mosel",2007,"Serriger Herrenberg Riesling Spätlese Feinherb 2007 (Weingut Dr Siemens)","B","0"
-"Mosel",2007,"Wehlener Sonnenuhr Riesling Spätlese 2007 (JJ Prüm)","B","2"
-"Mosel",2011,"Roxheimer Höllenpfad Riesling Trocken 2011, Weingut Hermann Dönnhoff, Nahe","B","0"
-"Mosel",2011,"Wehlener Sonnenuhr Riesling Spätlese 2011 (JJ Prüm)","B","0"
-"New Zealand",2002,"Craggy Range Le Sol Syrah 2002, Hawkes Bay","B","0"
-"New Zealand",2002,"Felton Road Chardonnay 2002, Central Otago","B","2"
-"New Zealand",2002,"Wither Hills Chardonnay 2002, Marlborough","B","2"
-"New Zealand",2003,"Avery Craggy Range Sauvignon Blanc 2003, Marlborough","B","1"
-"New Zealand",2003,"Palliser Estate Sauvignon Blanc 2003","B","0"
-"New Zealand",2004,"Dry River Pinot Noir 2004, Martinborough","B","0"
-"New Zealand",2006,"Fromm Clayvin Vineyard Chardonnay 2006 Marlborough","B","8"
-"New Zealand",2008,"Felton Road Chardonnay 2008, Central Otago","B","13"
-"Port",1931,"Quinta do Noval, 1931","A1","0"
-"Port",1935,"Graham 1935","A","0"
-"Port",1945,"Graham 1945","A1","0"
-"Port",1945,"Quinta do Noval, 1945","A1","0"
-"Port",1945,"Warre 1945","A1","0"
-"Port",1948,"Fonseca 1948","A1","0"
-"Port",1955,"Taylor 1955","A1","0"
-"Port",1977,"Dow 1977","A1","2"
-"Port",1977,"Fonseca 1977","A1","10"
-"Port",1977,"Quarles Harris 1977","B","0"
-"Port",1977,"Taylor 1977","A","9"
-"Port",1977,"Warre 1977","A","17"
-"Port",1982,"Warres Quinta do Cavadinha 1982","A","0"
-"Port",1983,"Dow 1983","B","10"
-"Port",1983,"Fonseca 1983","B","9"
-"Port",1983,"Graham 1983","A","0"
-"Port",1983,"Taylor 1983","A","1"
-"Port",1983,"Warre 1983","B","6"
-"Port",1985,"Churchill 1985","B","3"
-"Port",1985,"Cockburn 1985","B","4"
-"Port",1985,"Croft 1985","B","2"
-"Port",1985,"Fonseca 1985","A1","0"
-"Port",1985,"Graham 1985","B","0"
-"Port",1985,"Taylor 1985","A","0"
-"Port",1985,"Warre 1985","A","0"
-"Port",1994,"Fonseca 1994","B","0"
-"Port",1994,"Graham 1994","B","0"
-"Port",1994,"Quarles Harris 1994","B","0"
-"Port",1994,"Taylor 1994","B","1"
-"Port",1994,"Warre 1994","B","0"
-"Port",1996,"Quinta do Vesuvio 1996","B","0"
-"Port",2000,"Croft 2000","U","0"
-"Port",2000,"Dow's 2000","U","0"
-"Port",2000,"Fonseca 2000","U","0"
-"Port",2000,"Taylor 2000","U","0"
-"Reception Wines (Red)",2008,"Concha y Toro Merlot","C","657"
-"Reception Wines (White)",2011,"Chapel Down Bacchus 2011/2012","C","1758"
-"Rhein",2001,"Forster Jesuitengarten Riesling Kabinett 2001","B","8"
-"Rhein",2001,"Schloss Johannisberger Riesling Spätlese Grünlack 2001","B","0"
-"Rhône",1985,"Cornas 1985, Guy de Barjac","B","0"
-"Rhône",1985,"Côte-Rôtie 1985, Domaine Emile Champet","B","0"
-"Rhône",1986,"Côte-Rôtie 1986, Domaine Burgaud","B","0"
-"Rhône",1986,"Hermitage 1986, Domaine des Remizières, (Desmeure Père et fils)","B","0"
-"Rhône",1987,"Hermitage 1987, Jean-Louis Chave","B","8"
-"Rhône",1988,"Côte-Rôtie 1988, Côte Brune et Blonde, P Gaillard","B","0"
-"Rhône",1988,"Hermitage 1988,, Bernard Faurie","A","0"
-"Rhône",1990,"Hermitage la Chapelle, 1990, Paul Jaboulet, Aîné","A1","0"
-"Rhône",1995,"Crozes Hermitage Domaine Thalabert 1995","B","23"
-"Rhône",1995,"Crozes Hermitage La Petite Ruche, Chapoutier 1995","B","0"
-"Rhône",1998,"Chateauneuf du Pape, Clos des Papes 1998","B","10"
-"Rhône",1998,"Côte Rôtie 1998, Robert & Patrick Jasmin","A","1"
-"Rhône",1998,"Côtes du Rhône - Villages 1998, Cuvée Nôtre Dame de Cellettes (Domaine Sainte Anne)","B","0"
-"Rhône",1998,"Côtes du Rhône 1998, Coudoulet de Beaucastel","C","0"
-"Rhône",1998,"Gigondas 1998, Chateau du Trignon","B","3"
-"Rhône",1998,"Gigondas 1998, Domaines Perrin","B","1"
-"Rhône",2007,"Châteauneuf du Pape 2007, Domaine des Sénéchaux (Jean-Michel Cazes)","B","0"
-"Rhône",2007,"Châteauneuf-du-Pape Chante Le Merle 2007, Bosquet des Papes","B","0"
-"Rhône",2007,"Côte-Rôtie 2007, Domaine Jean-Michel Stephan","A","0"
-"Rhône",2007,"Gigondas Pierre Aiguille 2007 (Paul Jaboulet Aîné)","B","0"
-"Sauternes/Barsac",1967,"Château Suduiraut 1967, 1er Cru Classé, Sauternes","A","0"
-"Sauternes/Barsac",1988,"Château Coutet 1988, 1er Cru Classé, Barsac","A","0"
-"Sauternes/Barsac",1990,"Château Sigalas-Rabaud 1990, Ier Cru Classé, Sauternes","A","0"
-"Sauternes/Barsac",1990,"Château Suduiraut 1990 Halves, 1er Cru Sauternes","A","0"
-"Sauternes/Barsac",1997,"Château La Tour Blanche 1997, 1er Cru Classé, Sauternes","A","7"
-"Sauternes/Barsac",1997,"Château Lafaurie Peyraguey 1997, 1er Cru Sauternes","A","6"
-"Sauternes/Barsac",1997,"Château Rieussec 1997, 1er Cru Sauternes","A","1"
-"Sauternes/Barsac",1997,"Château Suduiraut 1997, 1er Cru Sauternes","A","23"
-"Sauternes/Barsac",2001,"Château Doisy-Daëne 2001, 2ème Cru, Barsac","B","0"
-"Sauternes/Barsac",2001,"Château La Tour Blanche 2001 Half Bottles","B","0"
-"Sauternes/Barsac",2001,"Château Lafaurie Peyraguey 2001, 1er Cru Sauternes","B","0"
-"Sauternes/Barsac",2001,"Château Suduiraut 2001, 1er Cru, Sauternes","A","0"
-"South African",2002,"Jordan Estate Chardonnay 2002, Stellenbosch","B","16"
-"South African",2002,"Mont du Toit 2002, Wellington, Western Cape","B","0"
-"South African",2003,"Hamilton Russell Pinot Noir 2003, Walker Bay","B","11"
-"South African",2003,"Rustenberg Peter Barlow Cabernet Sauvignon 2003, Stellenbosch","B","0"
-"South African",2008,"Hamilton Russell Chardonnay 2008, Walker Bay","B","4"
-"Spanish",1991,"Pesquera Reserva 1991","B","0"
-"Spanish",1999,"Vega Sicilia Cosecha Valbuena 1999","A","0"
-"Spanish",2000,"Muga Rioja Reserva 2000, Seleccion Especial","B","4"
-"Spanish",2000,"Ribera del Duero Alion Cosecha 2000","B","0"
-"Spanish",2001,"Calvario Rioja 2001, Finca Allende","B","0"
-"Sparkling Wines",1998,"Nyetimber Prestige Cuvée 1998","B","0"
-"Sparkling Wines",1999,"Breaky Bottom Cuvée Rémy Alexandre 1999 Brut","C","0"
-"Sparkling Wines",2001,"Chapel Down Pinot Reserve 2001","B","0"
-"Sparkling Wines",2002,"Ridgeview Merret Fitzrovia Rosé 2002","C","1"
-"Sparkling Wines",2004,"Ridgeview Cuvée Merret Fitzrovia Rosé 2004","C","0"
-"Sparkling Wines",2005,"Nyetimber Classic Cuvée 2005","B","71"
-"Sparkling Wines",2006,"Denbies Cubitt Reserve 2006","C","43"
-"Sparkling Wines",2006,"Ridgeview Cuvée Merret Grosvenor 2006","C","0"
-"Sparkling Wines",2007,"Nyetimber Classic Cuvée 2007","C","131"
-"Sparkling Wines",2008,"Breaky Bottom Cuvée Princess Colonna Reserve 2008","C","0"
-"Sparkling Wines",2008,"Camel Valley Pinot Noir 2008 Brut","C","12"
-"Sparkling Wines",2009,"Ridgeview Grosvenor 2009 Brut","C","90"
-"Sparkling Wines",2010,"Camel Valley Pinot Noir Rosé Brut 2010","C","33"
-"Sparkling Wines",,"Nyetimber Demi Sec NV","C","73"
-"Spirits and Aperitifs",,"Abelha Silver Cachaca","C","0"
-"Spirits and Aperitifs",,"Bourbon","","0"
-"Spirits and Aperitifs",,"Campari","","0"
-"Spirits and Aperitifs",,"Dubonnet","","0"
-"Spirits and Aperitifs",,"Martini Dry","","0"
-"Spirits and Aperitifs",,"Pimm's No 1","","7"
-"Spirits and Aperitifs",,"Vodka","","1"
-"Spirits and Aperitifs",,"Gin","","48"
-"Spirits and Aperitifs",,"Dewasakura Oka Sake Junmai-Ginso","B","0"
-"Whisky (Various)",,"Scotch Whisky Blends","","7 and a half"
+"countryregion","vintage","productname","grade","consumption"
+"Alsace",2001,"Gewürztraminer Cuvée Théo 2001, Domaine Weinbach (Colette Faller et filles)","B",0
+"Alsace",2001,"Riesling Grand Cru Wineck-Schlossberg 2001, Domaine Meyer-Fonné","B",0
+"Alsace",2001,"Tokay Pinot Gris Réserve Particulière 2001, Domaine Meyer-Fonné","B",0
+"Alsace",2007,"Domaine Marcel Deiss Riesling 2007","B",19
+"Alsace",2007,"Pinot Gris Les Eléments 2007 (Domaine Bott-Geyl)","B",12
+"Alsace",2007,"Riesling Grand Cru Kirchberg 2007 (Domaine Jean Sipp)","B",4
+"Alsace",2008,"Pinot Gris 2008 (Domaine Rolly Gassmann)","B",0
+"Alsace",2008,"Riesling Grand Cru Saering 2008 (Domaines Schlumberger)","B",0
+"Alsace",2010,"Gewürztraminer ""Les Princes Abbés"" 2010 (Domaines Schlumberger)","B",0
+"Argentina",2003,"Prodigo Malbec Reserva 2003, Alessandro Speri, Mendoza","B",0
+"Australian",1995,"Lindemans ""Pyrus"" Cabernet Sauvignon 1995","B",2
+"Australian",1997,"Eileen Hardy Shiraz 1997, McLaren Vale","B",0
+"Australian",1997,"Mitchells Peppertree Shiraz, Clare Valley 1997","C",0
+"Australian",2002,"D'Arenberg The Coppermine Road Cabernet Sauvignon 2002, McLaren Vale","B",0
+"Australian",2002,"Katnook Estate Prodigy Shiraz 2002, Coonawarra","B",0
+"Australian",2002,"Warner Vineyard Giaconda Shiraz 2002","B",0
+"Australian",2002,"Yalumba Eden Valley Viognier 2002","B",4
+"Australian",2008,"Moss Wood Chardonnay 2008, Margaret River","B",4
+"Austrian",2001,"Grüner Veltliner Thal Novemberlese 2001 (Hiedler)","B",25
+"Austrian",2011,"Loibner Steinertal Riesling Smaragd 2011, F X Pichler","B",0
+"Austrian",2011,"Steiner Riesling Ried Pfaffenberg Selection 2011 Trocken, Weingut Knoll","B",0
+"Bordeaux",1955,"Château Latour 1955, 1er Cru Classé, Pauillac","A1",0
+"Bordeaux",1961,"Château Gruaud-Larose 1961, 2me Cru Classé, St Julien","A1",0
+"Bordeaux",1961,"Château Latour 1961, 1er Cru Classé, Pauillac","A1",0
+"Bordeaux",1961,"Château Margaux 1961, 1er Cru Classé, Margaux","A1",0
+"Bordeaux",1962,"Château Latour 1962, 1er Cru Classé, Pauillac","A",0
+"Bordeaux",1962,"Château Margaux 1962, 1er Cru Classé, Margaux","A",0
+"Bordeaux",1970,"Château Palmer 1970, Magnums, 3me Cru Classé, Margaux","A1",0
+"Bordeaux",1970,"Château Pétrus 1970, Cru Exceptionnel, Pomerol","A1",0
+"Bordeaux",1975,"Château Cheval Blanc 1975, 1er Grand Cru Classé, St Emilion","A",0
+"Bordeaux",1975,"Château Cheval Blanc 1975, Magnums, 1er Grand Cru Classé, St Emilion","A",0
+"Bordeaux",1975,"Château Margaux 1975, 1er Cru Classé, Margaux","A",0
+"Bordeaux",1975,"Château Palmer 1975, 3me Cru Classé, Margaux","B",0
+"Bordeaux",1978,"Château Pétrus 1978, Cru Exceptionnel, Pomerol","A1",0
+"Bordeaux",1979,"Château Margaux 1979, 1er Cru Classé, Margaux","A1",0
+"Bordeaux",1981,"Château Beychevelle 1981, 4me Cru Classé, St Julien","B",0
+"Bordeaux",1981,"Château Cheval Blanc 1981, 1er Grand Cru Classé, St Emilion","A",0
+"Bordeaux",1982,"Château Beychevelle 1982, Magnums, 4me Cru Classé, St Julien","A",0
+"Bordeaux",1982,"Château Margaux 1982, 1er Cru Classé, Margaux","A1",0
+"Bordeaux",1983,"Château Cheval Blanc 1983, 1er Grand Cru Classé, St Emilion","A1",5
+"Bordeaux",1983,"Château Margaux 1983, 1er Cru Classé, Margaux","A1",0
+"Bordeaux",1985,"Château Brane-Cantenac 1985, Magnums, 2me Cru Classé, Cantenac-Margaux","B",0
+"Bordeaux",1985,"Château Cheval Blanc 1985, 1er Grand Cru Classé, St Emilion","A1",5
+"Bordeaux",1985,"Château Gruaud-Larose 1985, 2me Cru Classé, St Julien","A",0
+"Bordeaux",1985,"Château Margaux 1985, 1er Cru Classé, Margaux","A1",7
+"Bordeaux",1986,"Château Beychevelle 1986, 4me Cru Classé, St Julien","B",0
+"Bordeaux",1986,"Château Cheval Blanc 1986, 1er Grand Cru Classé, St Emilion","A1",0
+"Bordeaux",1986,"Château Cos d’Estournel 1986, Magnums, 2me Cru Classé, St Estèphe","A",0
+"Bordeaux",1986,"Château Ducru-Beaucaillou 1986, 2me Cru Classé, St Julien","B",3
+"Bordeaux",1986,"Château Giscours 1986, 3me Cru Classé, Labarde-Margaux","B",0
+"Bordeaux",1986,"Château Margaux 1986, 1er Cru Classé, Margaux","A1",0
+"Bordeaux",1986,"Château Montrose 1986, 2me Cru Classé, St Estèphe","A",11
+"Bordeaux",1986,"Château Mouton Rothschild 1986, 1er Cru Classé, Pauillac","A1",0
+"Bordeaux",1986,"Château Pichon-Longueville Baron 1986, 2me Cru Classé, Pauillac","B",4
+"Bordeaux",1986,"Château Pichon-Longueville, Comtesse de Lalande 1986, 2me Cru Classé, Pauillac","A",0
+"Bordeaux",1986,"Domaine de Chevalier 1986, Grand Cru Classé, Graves","B",0
+"Bordeaux",1986,"Le Pin 1986, Principal Growth, Pomerol","A1",0
+"Bordeaux",1986,"Vieux Château Certan 1986, Magnums, Principal Growth, Pomerol","A",0
+"Bordeaux",1988,"Chateau Belair 1988","B",0
+"Bordeaux",1988,"Château Cos d’Estournel 1988, 2me Cru Classé, St Estèphe","A",1
+"Bordeaux",1988,"Château La Lagune 1988, 3me Cru Classé, Ludon (Haut Médoc)","B",0
+"Bordeaux",1988,"Château Lafite Rothschild 1988, 1er Cru Classé, Pauillac","A1",0
+"Bordeaux",1988,"Château Lynch Bages 1988, 5me Cru Classé, Pauillac","B",0
+"Bordeaux",1988,"Château Magdelaine 1988, 1er Grand Cru Classé, St Emilion","B",0
+"Bordeaux",1988,"Château Margaux 1988, 1er Cru Classé, Margaux","A1",0
+"Bordeaux",1988,"Château Mouton-Rothschild 1988, 1er Cru Classé, Pauillac","A",0
+"Bordeaux",1988,"Château Pichon-Longueville Baron 1988, 2me Cru Classé, Pauillac","B",23
+"Bordeaux",1988,"Château Rauzan-Ségla 1988, 2me Cru Classé, Margaux","B",5
+"Bordeaux",1988,"Château Troplong Mondot 1988, St Emilion","C",0
+"Bordeaux",1988,"Vieux Château Certan 1988, Cru Exceptionnel, Pomerol","B",0
+"Bordeaux",1989,"Château Angélus 1989, Grand Cru Classé, St Emilion","B",0
+"Bordeaux",1989,"Chateau Beauséjour-Duffau-Lagarrosse 1989","B",32
+"Bordeaux",1989,"Château Cos d’Estournel 1989, 2me Cru Classé, St Estèphe","A",15
+"Bordeaux",1989,"Château Haut Brion 1989, 1er Cru Classé, Graves","A1",0
+"Bordeaux",1989,"Château Léoville Lascases 1989, 2me Cru Classé, St Julien","A",53
+"Bordeaux",1989,"Château Léoville Poyferré 1989, 2me Cru Classé, St Julien","B",24
+"Bordeaux",1989,"Château Mouton Rothschild 1989, 1er Cru Classé, Pauillac","A1",0
+"Bordeaux",1990,"Chateau Beychevelle 1990, 4me Cru Classé, St Julien","B",16
+"Bordeaux",1990,"Château Brane-Cantenac 1990, 2me Cru Classé, Cantenac-Margaux","B",28
+"Bordeaux",1990,"Château Calon-Ségur 1990, 3me Cru Classé, St Estèphe","B",32
+"Bordeaux",1990,"Château Canon 1990,  (Magnums) 1er Grand Cru Classé, St Emilion","B",0
+"Bordeaux",1990,"Château Canon 1990, 1er Grand Cru Classé, St Emilion","B",3
+"Bordeaux",1990,"Château Cos d’Estournel 1990, 2me Cru Classé, St Estèphe","A",0
+"Bordeaux",1990,"Château Grand-Puy-Lacoste 1990, 5me Cru Classé, Pauillac","B",0
+"Bordeaux",1990,"Château Lafite Rothschild 1990, 1er Cru Classé, Pauillac","A1",0
+"Bordeaux",1990,"Château Langoa Barton 1990, 3me Cru Classé, St Julien","B",12
+"Bordeaux",1990,"Château Latour 1990, 1er Cru Classé, Pauillac","A1",0
+"Bordeaux",1990,"Château Léoville Barton 1990, 2me Cru Classé, St Julien","A",0
+"Bordeaux",1990,"Château Léoville Poyferré 1990, 2me Cru Classé, St Julien","A",32
+"Bordeaux",1990,"Château Lynch Bages 1990, 5me Cru Classé, Pauillac","A",0
+"Bordeaux",1990,"Château Lynch Bages, (Magnums) 1990, 5me Cru Classé, Pauillac","A",0
+"Bordeaux",1990,"Château Margaux 1990, 1er Cru Classé, Margaux","A1",0
+"Bordeaux",1990,"Château Mouton-Rothschild 1990, 1er Cru Classé, Pauillac","A1",0
+"Bordeaux",1990,"Château Pichon-Longueville Baron 1990, 2me Cru Classé, Pauillac","A1",1
+"Bordeaux",1990,"Château Pichon-Longueville, Comtesse de Lalande 1990, 2me Cru Classé, Pauillac","A1",11
+"Bordeaux",1990,"Chateau Sénéjac 1990","B",0
+"Bordeaux",1990,"Château Talbot 1990, 4me Cru Classé, St Julien","B",0
+"Bordeaux",1990,"Château Trotanoy 1990, Grand Cru Classé, Pomerol","A1",1
+"Bordeaux",1990,"Domaine de Chevalier 1990","B",0
+"Bordeaux",1993,"Château Le Tetre-Rôteboeuf 1993","B",0
+"Bordeaux",1994,"Château d'Angludet 1994, Margaux","C",60
+"Bordeaux",1994,"Chateau Grand-Puy-Lacoste 1994, Pauillac","B",0
+"Bordeaux",1994,"Chateau La Grave à Pomerol (Trigant de Boisset) 1994","C",0
+"Bordeaux",1994,"Chateau Latour à Pomerol 1994","A",0
+"Bordeaux",1994,"Château Léoville Barton, St Julien 1994","B",0
+"Bordeaux",1994,"Château Lynch-Bages 1994, 5me Cru Classé, Pauillac","B",0
+"Bordeaux",1994,"Chateau Magdelaine 1994, 1er Grand Cru, St Emilion","B",0
+"Bordeaux",1994,"Château Rauzan-Ségla 1994, 2me Cru Classé, Margaux","B",0
+"Bordeaux",1995,"Chateau Brane-Cantenac 1995, 2me Cru, Margaux","B",1
+"Bordeaux",1995,"Château Clerc Milon 1995, Pauillac","B",1
+"Bordeaux",1995,"Château Durfort Vivens 1995, 2me Cru, Margaux","B",1
+"Bordeaux",1995,"Chateau Grand Mayne 1995, Grand Cru Classé, Saint Emilion","B",2
+"Bordeaux",1995,"Chateau La Dominique 1995, Grand Cru Classé, Saint Emilion","B",1
+"Bordeaux",1995,"Château La Fleur Pétrus 1995","A",1
+"Bordeaux",1995,"Château La Lagune 1995, 3ème Cru Ludon, Medoc","B",1
+"Bordeaux",1995,"Château Lagrange 1995, St Julien","B",1
+"Bordeaux",1995,"Château Langoa Barton 1995, 3me Cru Classé, St Julien","B",2
+"Bordeaux",1995,"Chateau Latour à Pomerol 1995","B",1
+"Bordeaux",1995,"Château Tour Haut Caussan 1995","C",0
+"Bordeaux",1995,"Domaine de Chevalier, 1995 Grand Cru Classé, Graves","B",1
+"Bordeaux",1996,"Château Batailley 1996, 5ème Cru Pauillac","B",1
+"Bordeaux",1996,"Chateau Beaumont 1996, Cru Bourgeois Haut Médoc","C",115
+"Bordeaux",1996,"Château Cheval Blanc 1996, 1er Grand Cru St Emilion","A",1
+"Bordeaux",1996,"Château Duhart Milon Rothschild 1996, 5ème Cru Classé, Pauillac","B",1
+"Bordeaux",1996,"Chateau Gruaud Larose 1996, 2ème Cru Classé, Saint Julien","B",1
+"Bordeaux",1996,"Château Haut-Brion 1996, Pessac-Léognan","A",1
+"Bordeaux",1996,"Chateau La Lagune 1996, 3ème Cru, Haut Médoc","B",1
+"Bordeaux",1996,"Chateau La Lagune 1996, Magnums, 3ème Cru, Haut Médoc","B",0
+"Bordeaux",1996,"Château Léoville Poyferré 1996, 5ème Cru, St Julien","B",1
+"Bordeaux",1996,"Chateau Phélan Ségur, Cru Bourgeois, St Estèphe 1996","B",2
+"Bordeaux",1996,"Château Talbot 1996, 4ème Cru Classé, St Julien","B",1
+"Bordeaux",1998,"Château Beauséjour- Duffau-Lagarrosse 1998, 1er Grand Cru Classé, St-Emilion","B",1
+"Bordeaux",1998,"Château Lafite Rothschild 1998","A1",0
+"Bordeaux",1998,"Château Langoa Barton 1998, 3me Cru Classé, St Julien","B",1
+"Bordeaux",1998,"Château Latour 1998 Magnums, 1er Cru Classé, Pauillac","A1",0
+"Bordeaux",1998,"Château Latour 1998, 1er Cru Classé, Pauillac","A1",0
+"Bordeaux",1998,"Château Latour à Pomerol 1998","B",1
+"Bordeaux",1998,"Château Lynch Bages 1998, 5eme Cru Classé, Pauillac","B",1
+"Bordeaux",1998,"Château Margaux 1998, 1er Cru Classé, Margaux","A1",0
+"Bordeaux",1998,"Château Trotanoy 1998","A1",1
+"Bordeaux",1998,"Couvent des Jacobins 1998, Grand Cru St Emilion","B",1
+"Bordeaux",2000,"Château Cambon La Pelouse 2000, Haut Médoc","C",9
+"Bordeaux",2000,"Château de Fonbel 2000, Grand Cru St Emilion, (Alain Vauthier)","B",0
+"Bordeaux",2000,"Château Feytit-Clinet 2000, Pomerol (Magnums)","B",0
+"Bordeaux",2000,"Château Gruaud-Larose 2000, 2eme Cru Classé, St Julien","B",0
+"Bordeaux",2000,"Château Guillot 2000, Pomerol","B",0
+"Bordeaux",2000,"Château La Fleur Pétrus 2000, Pomerol","A",0
+"Bordeaux",2000,"Château Latour à Pomerol 2000, Pomerol","A",0
+"Bordeaux",2000,"Château Lynch-Bages 2000, 5ème Cru Classé, Pauillac","B",0
+"Bordeaux",2000,"Château Pichon-Longueville Comtesse de Lalande 2000, Pauillac","A",0
+"Bordeaux",2000,"Château Talbot 2000, 4eme Cru Classé, St Julien","B",0
+"Bordeaux",2001,"Château Haut Brion 2001, 1er Cru Graves","A",0
+"Bordeaux",2001,"Château La Fleur Pétrus 2001, Pomerol","A",0
+"Bordeaux",2001,"Château La Grave à Pomerol 2001, Pomerol","B",0
+"Bordeaux",2001,"Château La Lagune 2001, 3ème Cru Ludon, Médoc","B",0
+"Bordeaux",2001,"Château La Mission Haut-Brion 2001, Cru Classé, Pessac-Leognan","A",0
+"Bordeaux",2001,"Château Latour à Pomerol 2001, Pomerol","B",0
+"Bordeaux",2001,"Château Léoville-Poyferré 2001, 2ème Cru St Julien","B",0
+"Bordeaux",2001,"Château Montrose 2001, 2ème Cru St Estèphe","B",0
+"Bordeaux",2001,"Château Mouton Rothschild 2001, 1er Cru Pauillac","A",0
+"Bordeaux",2001,"Château Pichon-Longueville Baron 2001, 2me Cru Classé, Pauillac","B",0
+"Bordeaux",2001,"Château Pichon-Longueville Comtesse de Lalande 2001, 2ème Cru Classé, Pauillac","A",0
+"Bordeaux",2001,"Château Pontet Canet 2001, 5ème Cru Pauillac","B",0
+"Bordeaux",2003,"Château Bahans Haut-Brion 2003, Pessac-Léognan, Graves","B",0
+"Bordeaux",2003,"Château Beauséjour Duffau-Lagarosse 2003, 1er Grand Cru, St Emilion","B",0
+"Bordeaux",2003,"Château d'Armailhac 2003, 5ème Cru, Pauillac","B",0
+"Bordeaux",2003,"Château Haut Bailly 2003, Grand Cru Classé, Graves","B",0
+"Bordeaux",2003,"Château La Lagune 2003, 3ème Cru Classé, Ludon","B",0
+"Bordeaux",2003,"Château La Mission Haut-Brion 2003, Cru Classé, Pessac-Léognan","A",0
+"Bordeaux",2003,"Château Les Grands Chênes 2003, Médoc","B",0
+"Bordeaux",2003,"Château Lynch Bages 2003, 5ème Cru, Pauillac","B",0
+"Bordeaux",2003,"Château Plince 2003, Cru Classé, Pomerol","B",0
+"Bordeaux",2003,"Château Rausan-Ségla 2003, 2ème Cru, Margaux","B",0
+"Bordeaux",2003,"Pavillon Rouge du Château Margaux 2003, Margaux","B",0
+"Bordeaux",2004,"Château d'Angludet 2004, Margaux","B",0
+"Bordeaux",2004,"Château Gazin 2004, Pomerol","B",0
+"Bordeaux",2004,"Château Grand Puy Lacoste 2004, 5ème Cru Classé, Pauillac","B",0
+"Bordeaux",2004,"Château Gruaud-Larose 2004, 2ème Cru Classé, St Julien","B",0
+"Bordeaux",2004,"Château La Conseillante 2004, Pomerol","A",0
+"Bordeaux",2004,"Château La Mission-Haut-Brion 2004, Pessac-Léognan","A",0
+"Bordeaux",2004,"Château Lynch Bages 2004, 5ème Cru Classé, Pauillac","B",0
+"Bordeaux",2004,"Château Pichon-Longueville, Comtesse de Lalande 2004, 2ème Cru Classé, Pauillac","A",0
+"Bordeaux",2004,"Château Talbot 2004, 4ème Cru Classé, Saint Julien","B",0
+"Bordeaux",2004,"Clos Fourtet 2004 1er Grand Cru Classé, St Emilion","B",0
+"Bordeaux",2004,"Domaine de Chevalier 2004, Grand Cru Classé, Pessac-Léognan","B",0
+"Bordeaux",2004,"Vieux Château Certan 2004, Pomerol","A",0
+"Bordeaux",2005,"Château Belgrave 2005, 5ème Cru Classé, Haut-Médoc","B",0
+"Bordeaux",2005,"Château Brane-Cantenac 2005, 2ème Cru Classé, Cantenac-Margaux","B",0
+"Bordeaux",2005,"Château Gruaud-Larose 2005, 2ème Cru Classé, St Julien","B",0
+"Bordeaux",2005,"Château Lagrange 2005, Cru Classé, Pomerol","B",0
+"Bordeaux",2005,"Château Léoville-Barton 2005, 2ème Cru Classé St Julien","B",0
+"Bordeaux",2005,"Château Lynch Bages 2005, 5ème Cru Classé, Pauillac","B",0
+"Bordeaux",2005,"Château Pichon-Longueville Baron 2005, 2ème Cru Classé, Pauillac","A",0
+"Bordeaux",2005,"Château Talbot 2005, 4ème Cru Classé, St Julien","B",0
+"Bordeaux",2005,"Domaine de Chevalier 2005, Cru Classé, Pessac-Léognan","B",0
+"Bordeaux",2005,"Vieux Château Certan 2005, 1er Grand Cru Classé, Pomerol","A",0
+"Bordeaux",2006,"Château Brane-Cantenac 2006, 2ème Cru Classé, Margaux","B",0
+"Bordeaux",2006,"Château Cos d'Estournel 2006, 2ème Cru Classé, St Estèphe","B",0
+"Bordeaux",2006,"Château Gazin 2006, Pomerol","B",0
+"Bordeaux",2006,"Château Grand-Puy-Lacoste 2006, 5ème Cru Classé, Pauillac","B",0
+"Bordeaux",2006,"Château Pichon-Longueville Baron 2006, 2ème Cru Classé, Pauillac","B",0
+"Bordeaux",2006,"Château Pichon-Longueville Comtesse de Lalande 2006, 2ème Cru Classé, Pauillac","A",0
+"Bordeaux",2006,"Château Rauzan-Ségla 2006, 2ème Cru Classé, Margaux","B",0
+"Bordeaux",2006,"Château St Pierre 2006, 4ème Cru Classé, St Julien","B",0
+"Bordeaux",2009,"Château Grand Puy Lacoste 2009, 5ème Cru Classé, Pauillac","B",0
+"Bordeaux",2009,"Château Haut-Batailley 2009, 5ème Cru Classé, Pauillac","B",0
+"Bordeaux",2009,"Château Lascombes 2009, 2ème Cru Classé, Margaux","B",0
+"Bordeaux",2009,"Château Lynch-Moussas 2009, 5ème Cru Classé, Pauillac","B",0
+"Bordeaux",2009,"Château Talbot 2009, 4ème Cru Classé, St Julien","B",0
+"Brandy (Armagnac)",,"Armagnac Chateau de Laubade, Hors d'Age","B",0
+"Brandy (Armagnac)",,"Marquis de Puysegur VSOP Armagnac, Gers District","B",0
+"Brandy (NV Cognac)",,"Delamain Pale and Dry Grande Champagne Cognac, Grande Champagne","B",0
+"Brandy (NV Cognac)",,"FLB Grande Champagne Cognac NV","B",1
+"Brandy (NV Cognac)",,"Harvey's Fine Champagne Cognac, Grande Champagne District","B",0
+"Brandy (NV Cognac)",,"Hine Vieille fine Champagne Cognac","B",0
+"Brandy (NV Cognac)",1995,"Somerset 10 Year Old Cider Brandy","C",2
+"Brandy (Vintage Cognac)",1878,"Grands Fins Bois 1878 Cognac, Charente, Berry Bros","A",0
+"Brandy (Vintage Cognac)",1906,"Hine 1906, Cognac Grand Fine Champagne District, D Sandeman","A",0
+"Brandy (Vintage Cognac)",1912,"Hennessy 1912, Fine Liqueur Cognac, Grande Champagne District, Hennessy","A",0.25
+"Brandy (Vintage Cognac)",1913,"Martell 1913, Fine Liqueur Cognac, Grande Champagne District, D Sandeman","A",0.25
+"Brandy (Vintage Cognac)",1921,"Martell 1921, Cognac Grande Champagne District, J Harvey","A",0
+"Brandy (Vintage Cognac)",1922,"Hine 1922, Cognac Grande Champagne District","A",0
+"Brandy (Vintage Cognac)",1924,"Hine 1924, Cognac Grande Champagne District, Army & Navy","A",0
+"Brandy (Vintage Cognac)",1934,"Christopher's Grande Fine Champagne Cognac 1934","A",0
+"Brandy (Vintage Cognac)",1948,"Frapin Grande Champagne Cognac 1948","A",0
+"Brandy (Vintage Cognac)",1960,"Hine Grande Champagne Cognac 1960, landed 1962, bottled 1986","A",1.75
+"Brandy (Vintage Cognac)",1970,"Delamain Fine Champagne Cognac 1970","U",0
+"Burgundy (Red)",1961,"Corton 1961, Grand Cru, Côte de Beaune, Bouchard Père et Fils","A",0
+"Burgundy (Red)",1985,"Morey-St-Denis 1985, Côte de Nuits, Vienot","C",0
+"Burgundy (Red)",1988,"Echézeaux 1988, Côte de, Nuits, Domaine Dujac","A",4
+"Burgundy (Red)",1988,"Savigny-lès-Beaune les Lavières 1988, Côte de Beaune, Chandon de Briailles","B",0
+"Burgundy (Red)",1990,"Corton Bressandes 1990, Grand Cru, Côte de Beaune, Chandon de Briailles","A1",5
+"Burgundy (Red)",1990,"Echézeaux Grand Cru 1990, Côte de Nuits, Domaine de la Romanée-Conti","A1",0
+"Burgundy (Red)",1990,"Vosne Romanée 1990, Côte de Nuits, Champy Père et Cie","B",0
+"Burgundy (Red)",1993,"Gevrey Chambertin Clos Prieur 1993 Domaine Thierry Mortet","B",24
+"Burgundy (Red)",1993,"Savigny Les Beaune Aux Guettes 1993, Dom. Pavelot","B",0
+"Burgundy (Red)",1995,"Clos de Vougeot Grand Cru 1995, Domaine Drouhin-Laroze","A",14
+"Burgundy (Red)",1995,"Mazy Chambertin 1995  (Domaine Armand Rousseau)","B",15
+"Burgundy (Red)",1995,"Pommard 1er Cru Grand Clos Des Epenots 1995, Dom. de Courcel","B",0
+"Burgundy (Red)",1996,"Beaune 1er Cru Montrevenots 1996, Domaine Jean-Marc Boillot","C",0
+"Burgundy (Red)",1996,"Beaune-Grèves 1996, 1er Cru, Tollot-Beaut","B",48
+"Burgundy (Red)",1996,"Chambolle Musigny 1996, Joseph Drouhin","B",3
+"Burgundy (Red)",1996,"Clos de Vougeot 1996, Joseph Drouhin, Côte de Nuits","A",0
+"Burgundy (Red)",1996,"Corton Clos du Roi 1996, Grand Cru, Domaine Chandon de Briailles","A",0
+"Burgundy (Red)",1996,"Echezeaux Grd Cru (Champy) 1996","A",4
+"Burgundy (Red)",1996,"Nuits St Georges 1er Cru Clos des Forets de St Georges, Domaine de L'Arlot 1996","B",4
+"Burgundy (Red)",1996,"Pommard 1er Cru Clos des Epenots 1996, Domaine de Courcel","B",3
+"Burgundy (Red)",1996,"Savigny Les Lavières 1996, 1er Cru, Tollot- Beaut","C",0
+"Burgundy (Red)",1999,"Aloxe Corton 1999 1er Cru Clos du Chapitre","C",1
+"Burgundy (Red)",1999,"Aloxe-Corton 1er Cru Les Fournières (Domaine Tollot-Beaut) 1999","B",16
+"Burgundy (Red)",1999,"Clos de Vougeot 1999, Grand Cru, Domaine Hudelot-Noellat","A",1
+"Burgundy (Red)",1999,"Le Corton Grand Cru 1999, Domaine Bouchard Père et Fils","B",1
+"Burgundy (Red)",1999,"Nuits-Saint-Georges 1er Cru Les Pruliers 1999 (Robert Chevillon)","A",10
+"Burgundy (Red)",1999,"Pommard 1er Cru Clos des Epeneaux 1999, Domaine Comte Armand","B",1
+"Burgundy (Red)",1999,"Savigny les Beaune, 1er Cru, Les Lavières 1999 (Domaine Chandon de Briailles)","C",1
+"Burgundy (Red)",1999,"Volnay 1er Cru Clos de la Barre 1999 (Louis Jadot)","B",1
+"Burgundy (Red)",1999,"Volnay Caillerets 1er Cru 1999, Ancienne Cuvée Carnot (Dom. Bouchard Père et fils)","B",1
+"Burgundy (Red)",1999,"Vosne Romanée 1999 1er Cru Les Malconsorts, Domaine Hudelot-Noellat","A",1
+"Burgundy (Red)",2002,"Beaune Clos des Mouches 2002","B",1
+"Burgundy (Red)",2002,"Bonnes-Mares Grand Cru 2002, Domaine Drouhin-Laroze","A",1
+"Burgundy (Red)",2002,"Chassagne-Montrachet 1er Cru Clos du Château 2002, Château de la Maltroye","C",1
+"Burgundy (Red)",2002,"Latricières Chambertin Grand Cru 2002 (Domaine Nicolas Potel)","A",2
+"Burgundy (Red)",2002,"Latricières-Chambertin Grand Cru 2002, Drouhin Laroze","A",3
+"Burgundy (Red)",2002,"Nuits-St-Georges 1er Cru aux Perdrix 2002, Domaine de Perdrix","B",1
+"Burgundy (Red)",2002,"Nuits-St-Georges 1er Cru Clos des Fôrets Saint Georges 2002, Domaine de L'Arlot","B",1
+"Burgundy (Red)",2002,"Nuits-St-Georges 1er Cru Les Boudots 2002, Louis Jadot","B",1
+"Burgundy (Red)",2002,"Vosne Romanée 2002, Domaine Michel Gros","B",1
+"Burgundy (Red)",2002,"Vosne Romanée Les Malconsorts 2002, (Domaine Nicolas Potel)","B",1
+"Burgundy (Red)",2003,"Clos de la Roche Grand Cru 2003 (Domaine David Duband)","B",0
+"Burgundy (Red)",2003,"Clos de Vougeot Grand Cru 2003 (Domaine René Engel)","B",0
+"Burgundy (Red)",2003,"Corton Les Grandes Lolières 2003 (Domaine Bertagna)","B",0
+"Burgundy (Red)",2003,"Corton Pougets Grand Cru 2003 (Louis Jadot)","B",0
+"Burgundy (Red)",2003,"Gevrey-Chambertin Clos du Fonteny 2003 (Domaine Bruno Clair)","B",0
+"Burgundy (Red)",2003,"Nuits-St-Georges 1er Cru Les Damodes 2003 (Domaine Jean Chauvenet)","B",0
+"Burgundy (Red)",2003,"Nuits-St-Georges 1er Cru Les Saint Georges 2003 (Domaine Thibault Liget-Belair)","B",0
+"Burgundy (Red)",2005,"Gevrey Chambertin 1er Cru Au Closeau 2005 (Drouhin-Laroze)","B",0
+"Burgundy (Red)",2005,"Gevrey Chambertin Clos Prieur 2005 (Domaine Roy)","B",0
+"Burgundy (Red)",2005,"Morey-St-Denis 1er Cru Les Millandes 2005 (Domaine Pierre Amiot et fils)","B",0
+"Burgundy (Red)",2005,"Nuits-St-Georges 1er Cru Les Vignes Rondes 2005 (Confuron Coteditot)","B",0
+"Burgundy (Red)",2005,"Nuits-St-Georges Clos des Grandes Vignes 2005 (Montille)","B",0
+"Burgundy (Red)",2005,"Nuits-St-Geroges 1er Cru Les Damodes 2005 (Chauvenet)","B",0
+"Burgundy (Red)",2005,"Pommard Les Petits Noizons 2005 (Domaine de la Vougeraie)","B",0
+"Burgundy (Red)",2005,"Volnay Cailleret 1er Cru 2005, Domaine Nicolas Rossignol","B",0
+"Burgundy (Red)",2005,"Vosne-Romanée 1er Cru Les Suchots 2005 (Domaine J Confuron Côteditot)","B",0
+"Burgundy (Red)",2009,"Aloxe-Corton 1er Cru Les Fournières 2009 (Domaine Tollot-Beaut)","B",0
+"Burgundy (Red)",2009,"Beaune Grèves 1er Cru 2009 (Domaine Tollot-Beaut)","B",0
+"Burgundy (Red)",2009,"Chambolle-Musigny 2009 (Domaine Confuron-Cotetidot)","B",0
+"Burgundy (Red)",2009,"Nuits-St-Georges 1er Cru Clos des Forêts St-Georges 2009 (Domaine de l'Arlot)","B",0
+"Burgundy (Red)",2009,"Nuits-St-Georges 1er Cru Les Pruliers 2009 (Jean Grivot)","B",0
+"Burgundy (White)",1985,"Bâtard-Montrachet 1985, Grand Cru, J N Gagnard","A1",0
+"Burgundy (White)",1988,"Chevalier-Montrachet 1988, Côte de Beaune, Domaine Michel Niellon","A1",0
+"Burgundy (White)",1989,"Bâtard-Montrachet 1989, Côte de Beaune, Domaine Gagnard-Delagrange","A1",0
+"Burgundy (White)",1990,"Corton-Charlemagne 1990, Grand Cru (Bonneau du Martray)","A1",0
+"Burgundy (White)",1997,"Corton Charlemagne 1997, Domaine Bonneau du Martray","B",0
+"Burgundy (White)",1998,"Chassagne Montrachet 1998, Domaine Blain Gagnard","B",0
+"Burgundy (White)",1998,"Pouilly Fuissé Les Brûlés Château Fuissé 1998, JJ Vincent","B",0
+"Burgundy (White)",1998,"Puligny-Montrachet 1er Cru Le Clavoillon 1998, Domaine Leflaive","A",0
+"Burgundy (White)",1999,"Chassagne-Montrachet 1er Cru Les Chaumées 1999","A",1
+"Burgundy (White)",1999,"Pouilly Fuissé Les Crays Vieilles Vignes 1999, Domaine Daniel Barraud","B",0
+"Burgundy (White)",1999,"Puligny-Montrachet 1er Cru Les Champs Canet 1999 (Olivier Leflaive)","B",0
+"Burgundy (White)",2000,"Chassagne-Montrachet 1er Cru Les Chenevottes 2000 (Domaine Jean-Noël Gagnard)","B",0
+"Burgundy (White)",2000,"Chassagne-Montrachet Marquis de Laguiche 2000 (Joseph Drouin)","A",0
+"Burgundy (White)",2000,"Corton-Charlemagne 2000, Grand Cru (Domaine Vincent Girardin)","B",19
+"Burgundy (White)",2000,"Pouilly-Fuissé 'Terroir de Vergisson' 2000 (Olivier Merlin)","B",1
+"Burgundy (White)",2000,"Puligny-Montrachet Les Champs Gains 2000, (Bouchard Père et Fils)","B",0
+"Burgundy (White)",2001,"Bâtard-Montrachet Grand Cru 2001 (Domaine Blain-Gagnard)","A",4
+"Burgundy (White)",2001,"Chassagne Montrachet 2001 (Domaine Fontaine-Gagnard)","B",0
+"Burgundy (White)",2002,"Chablis 1er Cru Montée de Tonnerre 2002 (Domaine Fèvre)","B",0
+"Burgundy (White)",2002,"Chassagne Montrachet 1er Cru Morgeot 2002, Domaine du Duc de Magenta (Louis Jadot)","B",19
+"Burgundy (White)",2002,"Chassagne-Montrachet 1er Cru En Virondot 2002 (Domaine Marc Morey)","B",27
+"Burgundy (White)",2002,"Pernand-Vergelesses Blanc 2002, Maison Champy","C",0
+"Burgundy (White)",2002,"Puligny Montrachet 1er Cru Les Referts 2002 (Louis Jadot)","B",5
+"Burgundy (White)",2002,"Rully 1er Cru Margoté 2002, (Domaine Jacqueson)","C",0
+"Burgundy (White)",2004,"Chablis Grand Cru Les Clos 2004, (Domaine William Fèvre)","B",41
+"Burgundy (White)",2004,"Chablis Grand Cru Vaudèsir 2004, William Fèvre","B",15
+"Burgundy (White)",2004,"Chassagne-Montrachet 1er Cru La Grande Montagne 2004 (Domaine Fontaine-Gagnard)","B",47
+"Burgundy (White)",2004,"Chassagne-Montrachet 1er Cru Les Caillerets 2004 (Domaine Fontaine-Gagnard)","B",
+"Burgundy (White)",2004,"Chassagne-Montrachet 1er Cru Morgeot 2004 (Domaine Jean Noel Gagnard)","B",5
+"Burgundy (White)",2004,"Corton Charlemagne Grand Cru 2004, Maison Champy","A",3
+"Burgundy (White)",2004,"Pouilly Fuissé La Roche 2004, Bret Brothers","C",3
+"Burgundy (White)",2004,"Puligny-Montrachet 1er Cru Hameau de Blagny 2004 (Domaine Etienne Sauzet)","B",37
+"Burgundy (White)",2004,"Pulilgny-Montrachet Champ Gain 2004, (Domaine Gagey), Louis Jadot","B",28
+"Burgundy (White)",2005,"Chablis 1er Cru Montée de Tonnerre 2005 (Jean-Paul et Benoît Droin)","B",45
+"Burgundy (White)",2005,"Corton-Charlemagne Grand Cru 2005, Domaine Bonneau de Martray","A",0
+"Burgundy (White)",2005,"Meursault 1er Cru Perrières 2005 (Chanson Père et fils)","B",34
+"Burgundy (White)",2005,"Meursault Les Grands Charrons 2005 (Michel Bouzereau et fils)","B",5
+"Burgundy (White)",2005,"Puligny-Montrachet 1er Cru Les Champs Gain 2005 (Mischief & Mayhem)","A",11
+"Burgundy (White)",2005,"Puligny-Montrachet 1er Cru Les Garennes 2005 (Remoissenet Père et fils)","B",28
+"Burgundy (White)",2006,"Corton-Charlemagne Grand Cru 2006, Domaine Rapet","A",25
+"Burgundy (White)",2006,"Meursault Charmes 1er Cru 2006, Louis Jadot","B",0
+"Burgundy (White)",2006,"Meursault-Charmes 1er Cru 2006, Domaine Henri Germain et fils","B",0
+"Burgundy (White)",2006,"Puligny-Montrachet 1er Cru Les Folatières 2006, Louis Jadot","B",1
+"Burgundy (White)",2006,"Puligny-Montrachet 1er Cru Les Referts 2006, Remoissenet Père et fils","B",3
+"Burgundy (White)",2006,"Puligny-Montrachet Château de Puligny-Montrachet 2006","B",0
+"Burgundy (White)",2007,"Chassagne-Montrachet 1er Cru Morgeot Les Fairendes 2007 (Jean-Marc Pillot)","B",0
+"Burgundy (White)",2007,"Chassagne-Montrachet 1er Cru Morgeot Vigne Blanche 2007, Château de la Maltroye","B",0
+"Burgundy (White)",2007,"Chassagne-Montrachet 1er Cru Morgeot Vigne Blanche 2007, Château de la Maltroye","B",0
+"Burgundy (White)",2007,"Meursault 1er Cru Santenots 2007 (Domaine Marquis d'Angerville)","B",0
+"Burgundy (White)",2007,"Monthélie Blanc 2007, Château de Puligny-Montrachet","B",8
+"Burgundy (White)",2007,"Pouilly-Fuissé Les Vieilles Vignes 2007, Château de Fuissé","B",0
+"Burgundy (White)",2007,"Puligny-Montrachet 1er Cru La Clavoillon 2007 (Domaine Leflaive)","A",0
+"Burgundy (White)",2008,"Chablis 1er Cru Vaillon 2008, Cuvée Guy Moreau (Domaine Christian Moreau Père et fils)","B",9
+"Burgundy (White)",2008,"Corton-Charlemagne 2008 Grand Cru (Bonneau du Martray)","B",0
+"Burgundy (White)",2008,"Meursault 1er Cru En Luraule 2008 (Joseph Drouhin)","B",0
+"Burgundy (White)",2008,"Puligny-Montrachet Clos de la Garenne 2008 (Domaine du Duc de Magenta) Louis Jadot","B",0
+"Californian (Red)",1995,"Mondavi Napa Valley Cabernet Sauvignon 1995","B",0
+"Californian (Red)",1996,"Ridge Zinfandel, Geyserville 1996","B",0
+"Californian (Red)",1996,"Staglin Cabernet Sauvignon 1996","A",0
+"Californian (Red)",1997,"Newton Vineyard 1997 Merlot, Special Cuvee, Napa Valley","B",0
+"Californian (Red)",2000,"Dominus 2000 Napanook (Christian Moueix)","B",0
+"Californian (Red)",2000,"Ridge Monte Bello 2000","A",0
+"Champagne (Non Vintage)",,"Berrys UKC Champagne Grand Cru (Mailly) NV","B",132
+"Champagne (Non Vintage)",,"Bollinger Special Cuvee","B",0
+"Champagne (Non Vintage)",,"Heidsieck Heritage Brut NV","B",0
+"Champagne (Non Vintage)",,"Louis Roederer Brut Premier NV","B",0
+"Champagne (Non Vintage)",,"Pol Roger Brut Reserve","A",27
+"Champagne (Non Vintage)",,"Louis Roederer Carte Blanche NV","B",25
+"Champagne (Vintage)",1964,"Krug 1964, Brut,, Magnums, Reims","A1",0
+"Champagne (Vintage)",1982,"Krug 1982, Magnums, Reims","A",0
+"Champagne (Vintage)",1985,"Pol Roger Cuvée Sir Winston Churchill 1985","A1",0
+"Champagne (Vintage)",1986,"Louis Roederer 1986, Magnums, Reims","A",0
+"Champagne (Vintage)",1990,"Louis Roederer Brut 1990","A",0
+"Champagne (Vintage)",1995,"Taittinger Comtes de Champagne Blanc de Blancs Brut 1995","A",4
+"Champagne (Vintage)",1996,"Bollinger Grande Année 1996","A",0
+"Champagne (Vintage)",1996,"Gosset Grand Millésime Brut 1996","A",0
+"Champagne (Vintage)",1996,"Louis Roederer Brut 1996","A",0
+"Champagne (Vintage)",1996,"Louis Roederer Cristal 1996","A",0
+"Champagne (Vintage)",1996,"Taittinger Brut Millesime 1996","B",0
+"Champagne (Vintage)",1997,"Alfred Gratien Brut Millésime 1997","B",0
+"Champagne (Vintage)",1998,"Pol Roger Brut 1998","B",0
+"Champagne (Vintage)",1998,"Taittinger Comtes de Champagne Blanc de Blancs 1998","A",0
+"Champagne (Vintage)",2000,"Louis Roederer Brut 2000","A",0
+"Champagne (Vintage)",2002,"Legras Présidence Vieilles Vignes Grand Cru Brut 2002","B",5
+"Chile",2001,"Le Dix de Los Vascos 2001 (Domaine Barons de Rothschild) Colchagua","B",3
+"English & Welsh",2004,"Chapel Down Bacchus Lamberhurst Estate Reserve 2004","C",0
+"English & Welsh",2004,"Denbies Bacchus 2004","C",0
+"English & Welsh",2004,"Three Choirs Siegerrebe Estate Reserve 2004","C",0
+"English & Welsh",2006,"Denbies Ortega 2006","C",10
+"English & Welsh",2006,"Denbies Schönburger 2006","B",11
+"English & Welsh",2007,"Chapel Down Bacchus Reserve 2007","C",26
+"English & Welsh",2009,"Camel Valley Bacchus 2009","C",23
+"English & Welsh",2009,"Chapel Down Chardonnay 2009","C",3
+"English & Welsh",2009,"Chapel Down Pinot Blanc 2009","C",0
+"English & Welsh",2009,"Three Choirs Willow Brook 2009","C",29
+"English & Welsh",2010,"Camel Valley Atlantic Dry 2010","C",9
+"English & Welsh",2010,"Chapel Down Chardonnay 2010","C",0
+"English & Welsh",2010,"Furleigh Estate Bacchus Fumé 2010","C",0
+"English & Welsh",,"Three Choirs Annum","C",0
+"Italian (Red)",1994,"Masseto 1994, Bolgheri (Ornellaia)","B",0
+"Italian (Red)",1995,"Barolo Claudio Alario 1995","B",0
+"Italian (Red)",1996,"Chianti Classico Riserva, Fonterutoli 1996","B",0
+"Italian (Red)",1997,"Avvoltore 1997, Maremme Tuscana","B",0
+"Italian (Red)",1999,"Allegrini La Poja 1999","A",0
+"Italian (Red)",1999,"Brunello di Montalcino Riserva Talenti 1999","B",0
+"Italian (Red)",1999,"Gavi di Gavi, La Chiara 1999","U",0
+"Italian (Red)",2000,"Paleo Le Macchiole 2000, Bolgheri","B",0
+"Italian (Red)",2001,"Flaccianello della Pieve 2001, Fontodi","B",0
+"Italian (Red)",2001,"Sassicaia Tenuta San Guido 2001","B",0
+"Liqueurs",,"Chartreuse Green","",0
+"Liqueurs",,"Cointreau","",0
+"Liqueurs",,"Creme de Menthe","",0
+"Liqueurs",,"Drambuie","",0
+"Liqueurs",,"Grand Marnier","",0
+"Loire",2002,"Pouilly Fumé Château de Tracy 2002","C",0
+"Loire",2006,"Pouilly Fumé Les Cornets 2006 (Domaine Alain Cailbourdin)","B",0
+"Loire",2006,"Sancerre 2006 (Domaine Tissier)","B",0
+"Loire",2007,"Sancerre 2007 (Pascal et Nicolas Reverdy)","B",20
+"Loire",2010,"Sancerre Nuance 2010, Vincent Pinard","B",0
+"Loire",2010,"Vouvray Le Mont Sec 2010, Domaine Huet","B",0
+"Malt Whisky",,"Caol Ila 18 Year Old Single Malt","",0
+"Malt Whisky",,"Dalwhinnie 15 Year Old Single Malt","",1.5
+"Mosel",1990,"Serriger Würtzberg Riesling Auslese 1990, Saar Herrenberg, Bert Simon","A",0
+"Mosel",2001,"Bernkasteler Badstube Riesling Kabinett 2001 (Dr Thanisch)","B",0
+"Mosel",2001,"Graacher Himmelreich Riesling Spätlese 2001, JJ Prüm","B",3
+"Mosel",2001,"Scharzhofberger Riesling Spätlese 2001, von Hövel","B",0
+"Mosel",2001,"Wehlener Sonnenuhr Riesling Spätlese 2001, JJ Prüm","B",19
+"Mosel",2007,"Bernkasteler Badstube Riesling Kabinett 2007, (JJ Prüm)","B",1
+"Mosel",2007,"Maximin Grünhäuser Abtsberg Riesling Kabinett 2007 (Von Schubert)","B",6
+"Mosel",2007,"Maximin Grünhäuser Abtsberg Riesling Spätlese 2007 (Von Schubert)","B",0
+"Mosel",2007,"Serriger Herrenberg Riesling Spätlese Feinherb 2007 (Weingut Dr Siemens)","B",0
+"Mosel",2007,"Wehlener Sonnenuhr Riesling Spätlese 2007 (JJ Prüm)","B",2
+"Mosel",2011,"Roxheimer Höllenpfad Riesling Trocken 2011, Weingut Hermann Dönnhoff, Nahe","B",0
+"Mosel",2011,"Wehlener Sonnenuhr Riesling Spätlese 2011 (JJ Prüm)","B",0
+"New Zealand",2002,"Craggy Range Le Sol Syrah 2002, Hawkes Bay","B",0
+"New Zealand",2002,"Felton Road Chardonnay 2002, Central Otago","B",2
+"New Zealand",2002,"Wither Hills Chardonnay 2002, Marlborough","B",2
+"New Zealand",2003,"Avery Craggy Range Sauvignon Blanc 2003, Marlborough","B",1
+"New Zealand",2003,"Palliser Estate Sauvignon Blanc 2003","B",0
+"New Zealand",2004,"Dry River Pinot Noir 2004, Martinborough","B",0
+"New Zealand",2006,"Fromm Clayvin Vineyard Chardonnay 2006 Marlborough","B",8
+"New Zealand",2008,"Felton Road Chardonnay 2008, Central Otago","B",13
+"Port",1931,"Quinta do Noval, 1931","A1",0
+"Port",1935,"Graham 1935","A",0
+"Port",1945,"Graham 1945","A1",0
+"Port",1945,"Quinta do Noval, 1945","A1",0
+"Port",1945,"Warre 1945","A1",0
+"Port",1948,"Fonseca 1948","A1",0
+"Port",1955,"Taylor 1955","A1",0
+"Port",1977,"Dow 1977","A1",2
+"Port",1977,"Fonseca 1977","A1",10
+"Port",1977,"Quarles Harris 1977","B",0
+"Port",1977,"Taylor 1977","A",9
+"Port",1977,"Warre 1977","A",17
+"Port",1982,"Warres Quinta do Cavadinha 1982","A",0
+"Port",1983,"Dow 1983","B",10
+"Port",1983,"Fonseca 1983","B",9
+"Port",1983,"Graham 1983","A",0
+"Port",1983,"Taylor 1983","A",1
+"Port",1983,"Warre 1983","B",6
+"Port",1985,"Churchill 1985","B",3
+"Port",1985,"Cockburn 1985","B",4
+"Port",1985,"Croft 1985","B",2
+"Port",1985,"Fonseca 1985","A1",0
+"Port",1985,"Graham 1985","B",0
+"Port",1985,"Taylor 1985","A",0
+"Port",1985,"Warre 1985","A",0
+"Port",1994,"Fonseca 1994","B",0
+"Port",1994,"Graham 1994","B",0
+"Port",1994,"Quarles Harris 1994","B",0
+"Port",1994,"Taylor 1994","B",1
+"Port",1994,"Warre 1994","B",0
+"Port",1996,"Quinta do Vesuvio 1996","B",0
+"Port",2000,"Croft 2000","U",0
+"Port",2000,"Dow's 2000","U",0
+"Port",2000,"Fonseca 2000","U",0
+"Port",2000,"Taylor 2000","U",0
+"Reception Wines (Red)",2008,"Concha y Toro Merlot","C",657
+"Reception Wines (White)",2011,"Chapel Down Bacchus 2011/2012","C",1758
+"Rhein",2001,"Forster Jesuitengarten Riesling Kabinett 2001","B",8
+"Rhein",2001,"Schloss Johannisberger Riesling Spätlese Grünlack 2001","B",0
+"Rhône",1985,"Cornas 1985, Guy de Barjac","B",0
+"Rhône",1985,"Côte-Rôtie 1985, Domaine Emile Champet","B",0
+"Rhône",1986,"Côte-Rôtie 1986, Domaine Burgaud","B",0
+"Rhône",1986,"Hermitage 1986, Domaine des Remizières, (Desmeure Père et fils)","B",0
+"Rhône",1987,"Hermitage 1987, Jean-Louis Chave","B",8
+"Rhône",1988,"Côte-Rôtie 1988, Côte Brune et Blonde, P Gaillard","B",0
+"Rhône",1988,"Hermitage 1988,, Bernard Faurie","A",0
+"Rhône",1990,"Hermitage la Chapelle, 1990, Paul Jaboulet, Aîné","A1",0
+"Rhône",1995,"Crozes Hermitage Domaine Thalabert 1995","B",23
+"Rhône",1995,"Crozes Hermitage La Petite Ruche, Chapoutier 1995","B",0
+"Rhône",1998,"Chateauneuf du Pape, Clos des Papes 1998","B",10
+"Rhône",1998,"Côte Rôtie 1998, Robert & Patrick Jasmin","A",1
+"Rhône",1998,"Côtes du Rhône - Villages 1998, Cuvée Nôtre Dame de Cellettes (Domaine Sainte Anne)","B",0
+"Rhône",1998,"Côtes du Rhône 1998, Coudoulet de Beaucastel","C",0
+"Rhône",1998,"Gigondas 1998, Chateau du Trignon","B",3
+"Rhône",1998,"Gigondas 1998, Domaines Perrin","B",1
+"Rhône",2007,"Châteauneuf du Pape 2007, Domaine des Sénéchaux (Jean-Michel Cazes)","B",0
+"Rhône",2007,"Châteauneuf-du-Pape Chante Le Merle 2007, Bosquet des Papes","B",0
+"Rhône",2007,"Côte-Rôtie 2007, Domaine Jean-Michel Stephan","A",0
+"Rhône",2007,"Gigondas Pierre Aiguille 2007 (Paul Jaboulet Aîné)","B",0
+"Sauternes/Barsac",1967,"Château Suduiraut 1967, 1er Cru Classé, Sauternes","A",0
+"Sauternes/Barsac",1988,"Château Coutet 1988, 1er Cru Classé, Barsac","A",0
+"Sauternes/Barsac",1990,"Château Sigalas-Rabaud 1990, Ier Cru Classé, Sauternes","A",0
+"Sauternes/Barsac",1990,"Château Suduiraut 1990 Halves, 1er Cru Sauternes","A",0
+"Sauternes/Barsac",1997,"Château La Tour Blanche 1997, 1er Cru Classé, Sauternes","A",7
+"Sauternes/Barsac",1997,"Château Lafaurie Peyraguey 1997, 1er Cru Sauternes","A",6
+"Sauternes/Barsac",1997,"Château Rieussec 1997, 1er Cru Sauternes","A",1
+"Sauternes/Barsac",1997,"Château Suduiraut 1997, 1er Cru Sauternes","A",23
+"Sauternes/Barsac",2001,"Château Doisy-Daëne 2001, 2ème Cru, Barsac","B",0
+"Sauternes/Barsac",2001,"Château La Tour Blanche 2001 Half Bottles","B",0
+"Sauternes/Barsac",2001,"Château Lafaurie Peyraguey 2001, 1er Cru Sauternes","B",0
+"Sauternes/Barsac",2001,"Château Suduiraut 2001, 1er Cru, Sauternes","A",0
+"South African",2002,"Jordan Estate Chardonnay 2002, Stellenbosch","B",16
+"South African",2002,"Mont du Toit 2002, Wellington, Western Cape","B",0
+"South African",2003,"Hamilton Russell Pinot Noir 2003, Walker Bay","B",11
+"South African",2003,"Rustenberg Peter Barlow Cabernet Sauvignon 2003, Stellenbosch","B",0
+"South African",2008,"Hamilton Russell Chardonnay 2008, Walker Bay","B",4
+"Spanish",1991,"Pesquera Reserva 1991","B",0
+"Spanish",1999,"Vega Sicilia Cosecha Valbuena 1999","A",0
+"Spanish",2000,"Muga Rioja Reserva 2000, Seleccion Especial","B",4
+"Spanish",2000,"Ribera del Duero Alion Cosecha 2000","B",0
+"Spanish",2001,"Calvario Rioja 2001, Finca Allende","B",0
+"Sparkling Wines",1998,"Nyetimber Prestige Cuvée 1998","B",0
+"Sparkling Wines",1999,"Breaky Bottom Cuvée Rémy Alexandre 1999 Brut","C",0
+"Sparkling Wines",2001,"Chapel Down Pinot Reserve 2001","B",0
+"Sparkling Wines",2002,"Ridgeview Merret Fitzrovia Rosé 2002","C",1
+"Sparkling Wines",2004,"Ridgeview Cuvée Merret Fitzrovia Rosé 2004","C",0
+"Sparkling Wines",2005,"Nyetimber Classic Cuvée 2005","B",71
+"Sparkling Wines",2006,"Denbies Cubitt Reserve 2006","C",43
+"Sparkling Wines",2006,"Ridgeview Cuvée Merret Grosvenor 2006","C",0
+"Sparkling Wines",2007,"Nyetimber Classic Cuvée 2007","C",131
+"Sparkling Wines",2008,"Breaky Bottom Cuvée Princess Colonna Reserve 2008","C",0
+"Sparkling Wines",2008,"Camel Valley Pinot Noir 2008 Brut","C",12
+"Sparkling Wines",2009,"Ridgeview Grosvenor 2009 Brut","C",90
+"Sparkling Wines",2010,"Camel Valley Pinot Noir Rosé Brut 2010","C",33
+"Sparkling Wines",,"Nyetimber Demi Sec NV","C",73
+"Spirits and Aperitifs",,"Abelha Silver Cachaca","C",0
+"Spirits and Aperitifs",,"Bourbon","",0
+"Spirits and Aperitifs",,"Campari","",0
+"Spirits and Aperitifs",,"Dubonnet","",0
+"Spirits and Aperitifs",,"Martini Dry","",0
+"Spirits and Aperitifs",,"Pimm's No 1","",7
+"Spirits and Aperitifs",,"Vodka","",1
+"Spirits and Aperitifs",,"Gin","",48
+"Spirits and Aperitifs",,"Dewasakura Oka Sake Junmai-Ginso","B",0
+"Whisky (Various)",,"Scotch Whisky Blends","",7.5

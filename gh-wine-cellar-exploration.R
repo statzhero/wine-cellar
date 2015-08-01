@@ -77,9 +77,14 @@ wine$Consumption.April.2013...March.2014[nchar(wine$Consumption.April.2013...Mar
 
 # Aha! Aha... :(
 
-# We could replace them as before with custom assignments, but let's use a power tool
+# We could use a power tool like Open Refine instead of assignments
 
-## XXXXXXXXXXXX ##
+wine[wine[, 5] == "Quarter", 5] <- 0.25
+wine[wine[, 5] == "1 and three quarters", 5] <- 1.75
+wine[wine[, 5] == "1 and a half", 5] <- 1.5
+wine[wine[, 5] == "7 and a half", 5] <- 7.5
+
+wine[, 5] <- as.numeric(wine[, 5])
 
 # Table with missings
 # as default: http://stackoverflow.com/questions/21724212/set-r-to-include-missing-data-how-can-is-set-the-usena-ifany-option-for-t
@@ -126,6 +131,7 @@ library(data.table)
 # Export as a simple file
 write.csv(wine, "UK-wine-cellar-2014-CLEAN.csv", row.names = FALSE, na = "")
 
-
+# TODO: write data cleaning as a function. 
+# TODO: get rid of encoding issues. 
 
 
