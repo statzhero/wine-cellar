@@ -1,17 +1,16 @@
 URL <- 'https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/339362/GH_Wine_Cellar_and_consumption_dataset_July_2014.csv'
 URLbackup <- 'https://raw.githubusercontent.com/statshero/wine-cellar/master/GH_Wine_Cellar_and_consumption_dataset_July_2014.csv'
 
-# NOT WORKING - but why
+# NOT WORKING - but why...
 wine <- read.csv(URL)
 
-# Introducing a function
+# Introducing a function - there are other ways.
 read.csv.ssl <- function(url, ...){
   tmpfile <- tempfile()
   download.file(url, destfile = tmpfile, method = "curl")
   urldata <- read.csv(tmpfile, ...)
   return(urldata)
 }
-
 
 wine <- read.csv.ssl(URL)
 
@@ -24,7 +23,7 @@ wine[1, ]
 # What type are the columns? 
 sapply(wine, class)
 
-# Hmmmm
+# Factors, hmmmm
 
 options(stringsAsFactors = FALSE) # TRUE is a terrible R default
 wine <- read.csv.ssl(URL)
@@ -72,7 +71,6 @@ summary(wine$Vintage)
 # Makes minimal sense
 hist(wine$Vintage)
 
-
 # Sooooo
 # So what's up with Consumption?
 wine$Consumption.April.2013...March.2014[nchar(wine$Consumption.April.2013...March.2014) > 3]
@@ -81,14 +79,14 @@ wine$Consumption.April.2013...March.2014[nchar(wine$Consumption.April.2013...Mar
 
 # We could replace them as before with custom assignments, but let's use a power tool
 
-
+## XXXXXXXXXXXX ##
 
 # Table with missings
 # as default: http://stackoverflow.com/questions/21724212/set-r-to-include-missing-data-how-can-is-set-the-usena-ifany-option-for-t
 table(wine[, 4], useNA = 'ifany')
 
-# Quick visualisations
-plot(table(wine[, 2])) # NOT great default
+# Default visualisation
+plot(table(wine[, 2]))
 
 # This below doesn't even work
 plot(wine$Vintage, wine$Grade)
@@ -97,20 +95,15 @@ plot(wine$Vintage, wine$Grade)
 if(!"ggplot2" %in% installed.packages()) install.packages("ggplot2")
 library(ggplot2)
 
-qplot(Vintage, data = wine)
-
-# This raises more questions: 
-# What does 'NV' stand for? 
-# Why the spike at 1990? 
-# Why are some vintage years left blank? 
+ggplot(data = wine, aes(x = Vintage)) + geom_histogram()
 
 # Other stuff
-qplot(Vintage, Grade, data = wine)
-qplot(Vintage, Grade, data = wine, geom = 'jitter')
-
-qplot(Grade, Country.Region, data = wine, geom = 'jitter')
+ggplot(data = wine, aes(Vintage, Grade)) + geom_point()
+ggplot(data = wine, aes(Vintage, Grade)) + geom_jitter()
+ggplot(data = wine, aes(Grade, Country.Region)) + geom_jitter()
 
 #--------COSMETICS------------
+# Note changing column names will make some of code above not work.
 
 # FAST way 
 names(wine)
@@ -119,9 +112,9 @@ colnames(wine) <- c("Country.Region", "Vintage", "Product.Name", "Grade", "Consu
 # SAFE way
 if(!"plyr" %in% installed.packages()) install.packages("plyr")
 library(plyr)
-wine <- rename(wine, c("Country.Region" = "country-region",
+wine <- rename(wine, c("Country.Region" = "countryregion",
                        "Vintage" = "vintage",
-                       "Product.Name" = "product-name",
+                       "Product.Name" = "productname",
                        "Grade" = "grade",
                        "Consumption" = "consumption"))
 
